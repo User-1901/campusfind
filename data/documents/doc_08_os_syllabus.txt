@@ -1,0 +1,13 @@
+---
+title: Course Syllabus: Operating Systems and Virtualization
+category: Course Syllabus
+doc_type: Syllabus
+department: Computer Science and Engineering
+date: 2026-08-01
+---
+Course Code: CS502 | Credits: 4 | Prerequisites: Computer Organization and Architecture.
+
+Unit 1 covers Operating System structures, system calls, dual-mode CPU operation, process control blocks, and inter-process communication. Unit 2 addresses CPU Scheduling algorithms (FCFS, SJF, Round Robin), process synchronization, semaphores, mutex locks, and Banker deadlock avoidance algorithm.
+
+Unit 3 investigates Memory Management, paging, segmentation, translation lookaside buffers, virtual memory demand paging, and page replacement strategies (LRU, FIFO, Optimal). Unit 4 studies File Systems, disk storage layout, inode allocation, and modern virtualization technologies including hypervisors and containerization.
+

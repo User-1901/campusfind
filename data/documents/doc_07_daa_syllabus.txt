@@ -1,0 +1,13 @@
+---
+title: Course Syllabus: Design and Analysis of Algorithms
+category: Course Syllabus
+doc_type: Syllabus
+department: Computer Science and Engineering
+date: 2026-08-01
+---
+Course Code: CS501 | Credits: 4 | Prerequisites: Data Structures and Discrete Mathematics.
+
+Module 1 introduces algorithm analysis, asymptotic notation (Big O, Big Omega, Big Theta), recurrence relations, and Master Theorem. Module 2 covers Divide and Conquer strategies, analyzing Linear Search, Binary Search, Merge Sort, and Quicksort. Module 3 focuses on Greedy Methods, including fractional knapsack, Prim and Kruskal minimum spanning trees, and Dijkstra shortest path algorithm.
+
+Module 4 explores Dynamic Programming principles, Matrix Chain Multiplication, 0/1 Knapsack, and Longest Common Subsequence. Module 5 introduces Backtracking, Branch and Bound, N-Queens problem, and NP-Completeness fundamentals. Textbooks: Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein (CLRS).
+

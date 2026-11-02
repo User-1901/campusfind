@@ -1,0 +1,13 @@
+---
+title: Course Syllabus: Artificial Intelligence and Machine Learning
+category: Course Syllabus
+doc_type: Syllabus
+department: Computer Science and Engineering
+date: 2026-08-01
+---
+Course Code: CS504 | Credits: 4 | Prerequisites: Linear Algebra and Python Programming.
+
+Syllabus overview: Foundations of AI, intelligent agent architectures, state-space search, uninformed search (BFS, DFS), and informed heuristic search strategies including A* Search and minimax game playing with alpha-beta pruning.
+
+Machine learning units address supervised learning algorithms (Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines), unsupervised clustering (K-Means, Hierarchical Clustering), and neural network backpropagation. Special topics highlight Natural Language Processing, text tokenization, TF-IDF representations, and search index scoring models.
+

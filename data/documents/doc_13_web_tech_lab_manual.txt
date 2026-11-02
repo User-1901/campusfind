@@ -1,0 +1,13 @@
+---
+title: Laboratory Manual: Full-Stack Web Development Lab
+category: Laboratory Manuals
+doc_type: Manual
+department: Information Technology
+date: 2026-08-05
+---
+Laboratory Course Code: IT503L | Web Technologies Laboratory.
+
+This laboratory provides hands-on exposure to building modern, responsive full-stack applications. Students master HTML5 semantic layout, modern CSS flexbox and grid styling, JavaScript DOM manipulation, asynchronous Fetch APIs, and Python-powered backend microservices using Streamlit and FastAPI.
+
+Experiments emphasize structuring modular client-server architectures, handling multipart file uploads, integrating relational SQL databases, indexing documents for instant search, and producing interactive statistical charts with Matplotlib. Final evaluation requires presenting an independent project application.
+

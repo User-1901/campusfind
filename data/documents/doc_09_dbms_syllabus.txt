@@ -1,0 +1,13 @@
+---
+title: Course Syllabus: Database Management Systems and SQL
+category: Course Syllabus
+doc_type: Syllabus
+department: Computer Science and Engineering
+date: 2026-08-01
+---
+Course Code: CS503 | Credits: 4 | Prerequisites: Object Oriented Programming.
+
+This course introduces relational database design, relational algebra, SQL querying, and entity-relationship modeling. Students learn functional dependencies, normalization standards up to Boyce-Codd Normal Form (BCNF), indexing structures including B-Trees, B+ Trees, and hashing algorithms.
+
+Transaction management topics explore ACID properties, serializability, two-phase locking protocols, write-ahead logging, and crash recovery techniques. The practical component emphasizes designing scalable database schemas using PostgreSQL and building document-oriented search pipelines with Inverted Indexes.
+

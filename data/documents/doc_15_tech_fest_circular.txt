@@ -1,0 +1,13 @@
+---
+title: National Technical Symposium and Project Exhibition
+category: Event Announcements
+doc_type: Announcement
+department: Student Activity Council
+date: 2026-09-10
+---
+The University invites registrations for TECHNOTRON 2026, the annual National Technical Symposium and Student Project Exhibition taking place on October 23 and 24, 2026.
+
+Featured competitive tracks encompass Competitive Programming Contests, Paper Presentations on Machine Learning and Cloud Computing, Autonomous Robotics Mazes, UI/UX Web Design Challenges, and IoT Hardware Demonstrations. Technical workshops covering Large Language Model deployment and high-performance search architectures will be held by leading industry engineers.
+
+Undergraduate and postgraduate students from accredited engineering institutions across the country are eligible to participate. Register via the campus portal.
+

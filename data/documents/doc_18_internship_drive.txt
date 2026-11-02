@@ -1,0 +1,13 @@
+---
+title: Summer Industrial Internship Drive 2026-2027
+category: Placement Notifications
+doc_type: Circular
+department: Training and Placement Cell
+date: 2026-09-05
+---
+Applications are invited from eligible pre-final year students for the Summer Industrial Internship Drive with premier multinational technology firms, research labs, and financial institutions.
+
+Recruiting partner corporations will offer paid internships spanning eight to twelve weeks during the summer term. Domains encompass Full-Stack Software Engineering, Cloud Architecture, Data Science, Cyber Security, and Embedded Systems. Selection pipelines include online coding assessments covering Data Structures and Algorithms, system design evaluations, and technical interviews.
+
+Shortlisted students must obtain a formal No Objection Certificate from their respective departmental heads prior to commencing external internships.
+

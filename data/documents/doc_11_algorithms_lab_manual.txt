@@ -1,0 +1,13 @@
+---
+title: Laboratory Manual: Design and Analysis of Algorithms Lab
+category: Laboratory Manuals
+doc_type: Manual
+department: Computer Science and Engineering
+date: 2026-08-05
+---
+Laboratory Course Code: CS501L | Department of Computer Science.
+
+Experiment 1: Implementation and empirical comparison of Linear Search and Binary Search on sorted text vocabularies. Students measure comparison counts, execution times using microsecond timers, and evaluate algorithmic asymptotic growth.
+
+Experiment 2: Implementation of Divide and Conquer sorting algorithms: Quicksort and Mergesort. Experiment 3: Dynamic programming solutions to 0/1 Knapsack and Longest Common Subsequence. Experiment 4: Minimum Spanning Tree algorithms (Kruskal and Prim). All programs must be coded in Python 3 with modular docstrings, time complexity analysis, and verification against synthetic test datasets.
+

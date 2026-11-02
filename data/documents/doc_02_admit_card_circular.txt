@@ -1,0 +1,13 @@
+---
+title: Hall Ticket and Admit Card Distribution Guidelines
+category: Examination Notices
+doc_type: Circular
+department: Examination Cell
+date: 2026-10-20
+---
+The Controller of Examinations announces that digital Hall Tickets and Admit Cards for the upcoming semester examinations are now available for download via the university student portal.
+
+To be eligible for admit card generation, students must satisfy two mandatory institutional conditions: clearance of all pending tuition and laboratory dues with the finance office, and attainment of a minimum aggregate 75 percent attendance across all enrolled academic lecture courses and laboratory sessions.
+
+Students encountering biometric verification discrepancies or photographic mismatches on their generated hall tickets are advised to report to the Examination Cell administrative desk before November 10, 2026. Duplicate physical cards will incur a nominal re-issuance fee.
+

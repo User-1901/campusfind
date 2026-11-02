@@ -1,0 +1,9 @@
+{
+  "name": "campusfind",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Campus document search engine and algorithmic evaluation platform",
+  "scripts": {
+    "dev": "python server.py"
+  }
+}

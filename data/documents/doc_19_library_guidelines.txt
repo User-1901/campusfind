@@ -1,0 +1,13 @@
+---
+title: Central Library Borrowing Rules and Digital Access Policy
+category: Student Guidelines
+doc_type: Guidelines
+department: Central Library
+date: 2026-08-01
+---
+The University Central Library provides an expansive collection of textbooks, research monographs, reference encyclopedias, and digital academic subscriptions (IEEE Xplore, ACM Digital Library, SpringerLink, ScienceDirect).
+
+Undergraduate students may borrow up to four physical volumes for a standard borrowing duration of fourteen calendar days, renewable once through the library portal if no holds are pending. Overdue items incur a fine of two rupees per day per book.
+
+The Digital Reading Room is equipped with high-speed internet terminals for academic research and search engine indexing studies. Users must observe silence, carry college identity cards, and refrain from eating inside the library premises.
+

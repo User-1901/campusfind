@@ -1,0 +1,13 @@
+---
+title: Smart Campus Annual 36-Hour Hackathon 2026
+category: Event Announcements
+doc_type: Announcement
+department: Innovation and Incubation Center
+date: 2026-09-01
+---
+The Innovation and Incubation Council is delighted to announce the flagship Smart Campus 36-Hour Hackathon 2026, scheduled from October 16 to October 18 at the Central Computing Complex.
+
+Themes for the competition include Smart Campus Automation, Intelligent Information Retrieval and Document Search Engines, Healthcare AI, FinTech Security, and Clean Energy Monitoring. Teams comprising two to four enrolled students may submit problem proposals before September 30, 2026.
+
+Shortlisted teams will receive cloud development credits, industry mentorship from tech leaders, and compete for a cumulative cash prize pool of three hundred thousand rupees alongside incubation seed funding opportunities.
+

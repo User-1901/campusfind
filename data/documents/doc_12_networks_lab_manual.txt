@@ -1,0 +1,13 @@
+---
+title: Laboratory Manual: Computer Networks and Socket Programming
+category: Laboratory Manuals
+doc_type: Manual
+department: Computer Science and Engineering
+date: 2026-08-05
+---
+Laboratory Course Code: CS502L | Practical Computing Facility.
+
+Experiment List: Experiment 1 focuses on building a TCP client-server chat application utilizing Python socket programming and multi-threading. Experiment 2 implements UDP socket communication for low-latency transmission. Experiment 3 explores network packet sniffing and protocol inspection with Wireshark, dissecting TCP three-way handshakes and HTTP payloads.
+
+Experiment 4 implements Distance Vector routing and Dijkstra Link-State routing algorithms in software simulation. Students must maintain formal lab observation notebooks documenting source code, test traces, packet capture screenshots, and network throughput calculations.
+

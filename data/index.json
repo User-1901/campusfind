@@ -1,0 +1,7428 @@
+{
+  "all": {
+    "doc_01_exam_schedule.txt": [
+      1
+    ],
+    "doc_02_admit_card_circular.txt": [
+      17,
+      37
+    ],
+    "doc_04_academic_calendar.txt": [
+      16
+    ],
+    "doc_05_attendance_policy.txt": [
+      26
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      35
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      17
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      11
+    ]
+  },
+  "undergraduate": {
+    "doc_01_exam_schedule.txt": [
+      2
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      1
+    ],
+    "doc_19_library_guidelines.txt": [
+      1
+    ]
+  },
+  "and": {
+    "doc_01_exam_schedule.txt": [
+      3,
+      19,
+      33,
+      10,
+      27
+    ],
+    "doc_02_admit_card_circular.txt": [
+      10,
+      20,
+      27,
+      42
+    ],
+    "doc_03_revaluation_rules.txt": [
+      12,
+      2
+    ],
+    "doc_04_academic_calendar.txt": [
+      18,
+      27,
+      23
+    ],
+    "doc_05_attendance_policy.txt": [
+      19,
+      18
+    ],
+    "doc_06_elective_registration.txt": [
+      6,
+      13,
+      16,
+      29,
+      7
+    ],
+    "doc_07_daa_syllabus.txt": [
+      9,
+      16,
+      23,
+      33,
+      45,
+      50,
+      13,
+      22,
+      27,
+      39
+    ],
+    "doc_08_os_syllabus.txt": [
+      9,
+      16,
+      35,
+      15,
+      32,
+      38
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      11,
+      35,
+      15,
+      29
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      9,
+      16,
+      24,
+      23,
+      38
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      4,
+      10,
+      26,
+      6,
+      11,
+      22,
+      33,
+      49
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      18,
+      37,
+      47,
+      7,
+      31
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      22,
+      31,
+      38,
+      21
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      3,
+      12,
+      20,
+      13
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      13,
+      22,
+      13,
+      24,
+      35,
+      2
+    ],
+    "doc_16_sports_meet.txt": [
+      15,
+      5,
+      14,
+      26,
+      6
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      3,
+      38,
+      38
+    ],
+    "doc_18_internship_drive.txt": [
+      23,
+      29,
+      41,
+      46
+    ],
+    "doc_19_library_guidelines.txt": [
+      15,
+      15,
+      28
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      27,
+      34,
+      12
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      21,
+      11,
+      35
+    ]
+  },
+  "postgraduate": {
+    "doc_01_exam_schedule.txt": [
+      4
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      3
+    ]
+  },
+  "students": {
+    "doc_01_exam_schedule.txt": [
+      5,
+      1
+    ],
+    "doc_02_admit_card_circular.txt": [
+      8,
+      1
+    ],
+    "doc_03_revaluation_rules.txt": [
+      1,
+      20
+    ],
+    "doc_04_academic_calendar.txt": [
+      18
+    ],
+    "doc_05_attendance_policy.txt": [
+      27,
+      12,
+      1
+    ],
+    "doc_06_elective_registration.txt": [
+      16,
+      28
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      15
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      17
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      16
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      14
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      30
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      4
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      25
+    ],
+    "doc_18_internship_drive.txt": [
+      9,
+      2
+    ],
+    "doc_19_library_guidelines.txt": [
+      2
+    ]
+  },
+  "are": {
+    "doc_01_exam_schedule.txt": [
+      6,
+      30
+    ],
+    "doc_02_admit_card_circular.txt": [
+      18,
+      14
+    ],
+    "doc_04_academic_calendar.txt": [
+      15
+    ],
+    "doc_05_attendance_policy.txt": [
+      3
+    ],
+    "doc_06_elective_registration.txt": [
+      24
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      12
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      42
+    ],
+    "doc_18_internship_drive.txt": [
+      2
+    ],
+    "doc_19_library_guidelines.txt": [
+      28
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      31
+    ]
+  },
+  "hereby": {
+    "doc_01_exam_schedule.txt": [
+      7
+    ]
+  },
+  "notified": {
+    "doc_01_exam_schedule.txt": [
+      8
+    ]
+  },
+  "that": {
+    "doc_01_exam_schedule.txt": [
+      9
+    ],
+    "doc_02_admit_card_circular.txt": [
+      6
+    ]
+  },
+  "the": {
+    "doc_01_exam_schedule.txt": [
+      10,
+      16,
+      26,
+      40,
+      15,
+      34
+    ],
+    "doc_02_admit_card_circular.txt": [
+      1,
+      14,
+      24,
+      24,
+      19
+    ],
+    "doc_03_revaluation_rules.txt": [
+      4,
+      17,
+      41,
+      15
+    ],
+    "doc_04_academic_calendar.txt": [
+      1,
+      5,
+      10,
+      9,
+      24
+    ],
+    "doc_05_attendance_policy.txt": [
+      7,
+      14
+    ],
+    "doc_06_elective_registration.txt": [
+      21,
+      1,
+      26
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      19
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      1,
+      10,
+      26,
+      3
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      1,
+      8,
+      10,
+      18
+    ],
+    "doc_16_sports_meet.txt": [
+      1,
+      8,
+      22,
+      15
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      1,
+      10,
+      20,
+      29,
+      42,
+      2
+    ],
+    "doc_18_internship_drive.txt": [
+      11,
+      14
+    ],
+    "doc_19_library_guidelines.txt": [
+      1,
+      22,
+      1,
+      33
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      1,
+      6,
+      25
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      1,
+      30,
+      9,
+      15,
+      20
+    ]
+  },
+  "end": {
+    "doc_01_exam_schedule.txt": [
+      11
+    ],
+    "doc_05_attendance_policy.txt": [
+      15
+    ]
+  },
+  "term": {
+    "doc_01_exam_schedule.txt": [
+      12
+    ],
+    "doc_18_internship_drive.txt": [
+      16
+    ]
+  },
+  "theory": {
+    "doc_01_exam_schedule.txt": [
+      13
+    ],
+    "doc_03_revaluation_rules.txt": [
+      10
+    ]
+  },
+  "examinations": {
+    "doc_01_exam_schedule.txt": [
+      14,
+      1
+    ],
+    "doc_02_admit_card_circular.txt": [
+      4,
+      17
+    ],
+    "doc_03_revaluation_rules.txt": [
+      4
+    ],
+    "doc_05_attendance_policy.txt": [
+      17
+    ]
+  },
+  "for": {
+    "doc_01_exam_schedule.txt": [
+      15
+    ],
+    "doc_02_admit_card_circular.txt": [
+      13,
+      21,
+      4
+    ],
+    "doc_03_revaluation_rules.txt": [
+      5,
+      23
+    ],
+    "doc_04_academic_calendar.txt": [
+      9,
+      15
+    ],
+    "doc_05_attendance_policy.txt": [
+      25,
+      38
+    ],
+    "doc_06_elective_registration.txt": [
+      3,
+      10,
+      3
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      27
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      18
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      2,
+      15
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      37
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      16,
+      25
+    ],
+    "doc_18_internship_drive.txt": [
+      10
+    ],
+    "doc_19_library_guidelines.txt": [
+      10,
+      12
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      10
+    ]
+  },
+  "autumn": {
+    "doc_01_exam_schedule.txt": [
+      17
+    ],
+    "doc_04_academic_calendar.txt": [
+      1
+    ]
+  },
+  "semester": {
+    "doc_01_exam_schedule.txt": [
+      18
+    ],
+    "doc_02_admit_card_circular.txt": [
+      16
+    ],
+    "doc_03_revaluation_rules.txt": [
+      20,
+      18
+    ],
+    "doc_04_academic_calendar.txt": [
+      2,
+      11,
+      2
+    ],
+    "doc_05_attendance_policy.txt": [
+      16
+    ]
+  },
+  "2026": {
+    "doc_01_exam_schedule.txt": [
+      19,
+      25,
+      34
+    ],
+    "doc_02_admit_card_circular.txt": [
+      27
+    ],
+    "doc_04_academic_calendar.txt": [
+      11,
+      8,
+      23,
+      40
+    ],
+    "doc_06_elective_registration.txt": [
+      15
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      17,
+      38
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      7,
+      24
+    ],
+    "doc_16_sports_meet.txt": [
+      32
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      11
+    ]
+  },
+  "will": {
+    "doc_01_exam_schedule.txt": [
+      20,
+      29,
+      2,
+      36,
+      39
+    ],
+    "doc_02_admit_card_circular.txt": [
+      31
+    ],
+    "doc_03_revaluation_rules.txt": [
+      10
+    ],
+    "doc_05_attendance_policy.txt": [
+      9,
+      19
+    ],
+    "doc_06_elective_registration.txt": [
+      30,
+      21
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      3
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      40
+    ],
+    "doc_16_sports_meet.txt": [
+      20,
+      32,
+      11
+    ],
+    "doc_18_internship_drive.txt": [
+      4
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      21
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      24
+    ]
+  },
+  "commence": {
+    "doc_01_exam_schedule.txt": [
+      21
+    ],
+    "doc_04_academic_calendar.txt": [
+      4
+    ]
+  },
+  "on": {
+    "doc_01_exam_schedule.txt": [
+      22,
+      39
+    ],
+    "doc_02_admit_card_circular.txt": [
+      9
+    ],
+    "doc_04_academic_calendar.txt": [
+      5,
+      37,
+      5,
+      14
+    ],
+    "doc_05_attendance_policy.txt": [
+      6
+    ],
+    "doc_06_elective_registration.txt": [
+      20,
+      33
+    ],
+    "doc_07_daa_syllabus.txt": [
+      38
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      13
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      6
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      5
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      19,
+      10
+    ],
+    "doc_16_sports_meet.txt": [
+      19
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      28
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      25
+    ]
+  },
+  "november": {
+    "doc_01_exam_schedule.txt": [
+      23
+    ],
+    "doc_02_admit_card_circular.txt": [
+      25
+    ],
+    "doc_04_academic_calendar.txt": [
+      38,
+      47,
+      50
+    ],
+    "doc_16_sports_meet.txt": [
+      27,
+      30,
+      20
+    ]
+  },
+  "25": {
+    "doc_01_exam_schedule.txt": [
+      24
+    ]
+  },
+  "examination": {
+    "doc_01_exam_schedule.txt": [
+      27,
+      42,
+      50,
+      16,
+      35
+    ],
+    "doc_02_admit_card_circular.txt": [
+      20
+    ],
+    "doc_03_revaluation_rules.txt": [
+      14,
+      32
+    ]
+  },
+  "session": {
+    "doc_01_exam_schedule.txt": [
+      28
+    ]
+  },
+  "run": {
+    "doc_01_exam_schedule.txt": [
+      30
+    ]
+  },
+  "through": {
+    "doc_01_exam_schedule.txt": [
+      31
+    ],
+    "doc_19_library_guidelines.txt": [
+      21
+    ]
+  },
+  "december": {
+    "doc_01_exam_schedule.txt": [
+      32
+    ]
+  },
+  "14": {
+    "doc_01_exam_schedule.txt": [
+      33
+    ],
+    "doc_04_academic_calendar.txt": [
+      39
+    ]
+  },
+  "be": {
+    "doc_01_exam_schedule.txt": [
+      3,
+      37,
+      40
+    ],
+    "doc_02_admit_card_circular.txt": [
+      2
+    ],
+    "doc_03_revaluation_rules.txt": [
+      38,
+      11
+    ],
+    "doc_05_attendance_policy.txt": [
+      10
+    ],
+    "doc_06_elective_registration.txt": [
+      31,
+      23
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      38
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      41
+    ],
+    "doc_16_sports_meet.txt": [
+      19,
+      12
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      38
+    ]
+  },
+  "conducted": {
+    "doc_01_exam_schedule.txt": [
+      4
+    ]
+  },
+  "in": {
+    "doc_01_exam_schedule.txt": [
+      5
+    ],
+    "doc_04_academic_calendar.txt": [
+      32,
+      27
+    ],
+    "doc_05_attendance_policy.txt": [
+      1,
+      15,
+      28
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      40
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      13
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      40
+    ]
+  },
+  "two": {
+    "doc_01_exam_schedule.txt": [
+      6
+    ],
+    "doc_02_admit_card_circular.txt": [
+      11
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      8
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      26
+    ],
+    "doc_19_library_guidelines.txt": [
+      36
+    ]
+  },
+  "daily": {
+    "doc_01_exam_schedule.txt": [
+      7
+    ],
+    "doc_05_attendance_policy.txt": [
+      5
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      10
+    ]
+  },
+  "shifts": {
+    "doc_01_exam_schedule.txt": [
+      8
+    ]
+  },
+  "morning": {
+    "doc_01_exam_schedule.txt": [
+      9
+    ]
+  },
+  "shift": {
+    "doc_01_exam_schedule.txt": [
+      10,
+      21
+    ]
+  },
+  "from": {
+    "doc_01_exam_schedule.txt": [
+      11,
+      22
+    ],
+    "doc_04_academic_calendar.txt": [
+      17,
+      46
+    ],
+    "doc_05_attendance_policy.txt": [
+      12
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      19,
+      10
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      26
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      41
+    ],
+    "doc_18_internship_drive.txt": [
+      4,
+      10
+    ],
+    "doc_19_library_guidelines.txt": [
+      30
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      29
+    ]
+  },
+  "09": {
+    "doc_01_exam_schedule.txt": [
+      12
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      7
+    ]
+  },
+  "30": {
+    "doc_01_exam_schedule.txt": [
+      13,
+      17
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      37
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      8
+    ]
+  },
+  "am": {
+    "doc_01_exam_schedule.txt": [
+      14
+    ]
+  },
+  "to": {
+    "doc_01_exam_schedule.txt": [
+      15,
+      26,
+      47
+    ],
+    "doc_02_admit_card_circular.txt": [
+      1,
+      16,
+      18
+    ],
+    "doc_04_academic_calendar.txt": [
+      20,
+      49
+    ],
+    "doc_05_attendance_policy.txt": [
+      25
+    ],
+    "doc_06_elective_registration.txt": [
+      41,
+      17
+    ],
+    "doc_07_daa_syllabus.txt": [
+      33
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      22
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      18
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      7
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      8,
+      22,
+      27
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      14
+    ],
+    "doc_16_sports_meet.txt": [
+      18,
+      29
+    ],
+    "doc_18_internship_drive.txt": [
+      10,
+      16
+    ],
+    "doc_19_library_guidelines.txt": [
+      6
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      25,
+      17,
+      27
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      8
+    ]
+  },
+  "12": {
+    "doc_01_exam_schedule.txt": [
+      16
+    ]
+  },
+  "pm": {
+    "doc_01_exam_schedule.txt": [
+      18,
+      25,
+      29
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      9
+    ]
+  },
+  "afternoon": {
+    "doc_01_exam_schedule.txt": [
+      20
+    ]
+  },
+  "02": {
+    "doc_01_exam_schedule.txt": [
+      23
+    ]
+  },
+  "00": {
+    "doc_01_exam_schedule.txt": [
+      24,
+      28
+    ]
+  },
+  "05": {
+    "doc_01_exam_schedule.txt": [
+      27
+    ]
+  },
+  "detailed": {
+    "doc_01_exam_schedule.txt": [
+      30
+    ]
+  },
+  "seating": {
+    "doc_01_exam_schedule.txt": [
+      31
+    ]
+  },
+  "arrangements": {
+    "doc_01_exam_schedule.txt": [
+      32
+    ]
+  },
+  "room": {
+    "doc_01_exam_schedule.txt": [
+      34
+    ],
+    "doc_19_library_guidelines.txt": [
+      4
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      29,
+      35,
+      30
+    ]
+  },
+  "allotments": {
+    "doc_01_exam_schedule.txt": [
+      35
+    ]
+  },
+  "published": {
+    "doc_01_exam_schedule.txt": [
+      38
+    ]
+  },
+  "campus": {
+    "doc_01_exam_schedule.txt": [
+      41
+    ],
+    "doc_03_revaluation_rules.txt": [
+      42
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      13,
+      7
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      19
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      13,
+      30,
+      45
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      12,
+      22
+    ]
+  },
+  "portal": {
+    "doc_01_exam_schedule.txt": [
+      43
+    ],
+    "doc_02_admit_card_circular.txt": [
+      27
+    ],
+    "doc_05_attendance_policy.txt": [
+      11
+    ],
+    "doc_06_elective_registration.txt": [
+      24
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      20
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      32
+    ],
+    "doc_19_library_guidelines.txt": [
+      24
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      24
+    ]
+  },
+  "48": {
+    "doc_01_exam_schedule.txt": [
+      44
+    ]
+  },
+  "hours": {
+    "doc_01_exam_schedule.txt": [
+      45
+    ]
+  },
+  "prior": {
+    "doc_01_exam_schedule.txt": [
+      46
+    ],
+    "doc_18_internship_drive.txt": [
+      15
+    ]
+  },
+  "each": {
+    "doc_01_exam_schedule.txt": [
+      48
+    ],
+    "doc_05_attendance_policy.txt": [
+      16
+    ],
+    "doc_06_elective_registration.txt": [
+      21
+    ]
+  },
+  "scheduled": {
+    "doc_01_exam_schedule.txt": [
+      49
+    ],
+    "doc_03_revaluation_rules.txt": [
+      12
+    ],
+    "doc_04_academic_calendar.txt": [
+      16
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      18
+    ]
+  },
+  "date": {
+    "doc_01_exam_schedule.txt": [
+      51
+    ]
+  },
+  "must": {
+    "doc_01_exam_schedule.txt": [
+      2
+    ],
+    "doc_02_admit_card_circular.txt": [
+      9
+    ],
+    "doc_03_revaluation_rules.txt": [
+      37
+    ],
+    "doc_04_academic_calendar.txt": [
+      19
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      37
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      17
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      26
+    ],
+    "doc_18_internship_drive.txt": [
+      3
+    ],
+    "doc_19_library_guidelines.txt": [
+      21
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      37
+    ]
+  },
+  "carry": {
+    "doc_01_exam_schedule.txt": [
+      3
+    ],
+    "doc_19_library_guidelines.txt": [
+      24
+    ]
+  },
+  "their": {
+    "doc_01_exam_schedule.txt": [
+      4
+    ],
+    "doc_02_admit_card_circular.txt": [
+      10
+    ],
+    "doc_03_revaluation_rules.txt": [
+      8
+    ],
+    "doc_18_internship_drive.txt": [
+      11
+    ]
+  },
+  "valid": {
+    "doc_01_exam_schedule.txt": [
+      5
+    ]
+  },
+  "physical": {
+    "doc_01_exam_schedule.txt": [
+      6
+    ],
+    "doc_02_admit_card_circular.txt": [
+      29
+    ],
+    "doc_16_sports_meet.txt": [
+      4
+    ],
+    "doc_19_library_guidelines.txt": [
+      8
+    ]
+  },
+  "college": {
+    "doc_01_exam_schedule.txt": [
+      7
+    ],
+    "doc_19_library_guidelines.txt": [
+      25
+    ]
+  },
+  "identity": {
+    "doc_01_exam_schedule.txt": [
+      8
+    ],
+    "doc_19_library_guidelines.txt": [
+      26
+    ]
+  },
+  "card": {
+    "doc_01_exam_schedule.txt": [
+      9,
+      13
+    ],
+    "doc_02_admit_card_circular.txt": [
+      6
+    ]
+  },
+  "printed": {
+    "doc_01_exam_schedule.txt": [
+      11
+    ]
+  },
+  "admit": {
+    "doc_01_exam_schedule.txt": [
+      12
+    ],
+    "doc_02_admit_card_circular.txt": [
+      11,
+      5
+    ]
+  },
+  "into": {
+    "doc_01_exam_schedule.txt": [
+      14
+    ]
+  },
+  "hall": {
+    "doc_01_exam_schedule.txt": [
+      17
+    ],
+    "doc_02_admit_card_circular.txt": [
+      8,
+      12
+    ]
+  },
+  "electronic": {
+    "doc_01_exam_schedule.txt": [
+      18
+    ]
+  },
+  "devices": {
+    "doc_01_exam_schedule.txt": [
+      19
+    ]
+  },
+  "including": {
+    "doc_01_exam_schedule.txt": [
+      20
+    ],
+    "doc_07_daa_syllabus.txt": [
+      41
+    ],
+    "doc_08_os_syllabus.txt": [
+      36
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      30
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      21
+    ]
+  },
+  "smart": {
+    "doc_01_exam_schedule.txt": [
+      21
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      12,
+      6
+    ]
+  },
+  "watches": {
+    "doc_01_exam_schedule.txt": [
+      22
+    ]
+  },
+  "programmable": {
+    "doc_01_exam_schedule.txt": [
+      23
+    ]
+  },
+  "calculators": {
+    "doc_01_exam_schedule.txt": [
+      24
+    ]
+  },
+  "mobile": {
+    "doc_01_exam_schedule.txt": [
+      25
+    ]
+  },
+  "phones": {
+    "doc_01_exam_schedule.txt": [
+      26
+    ]
+  },
+  "wireless": {
+    "doc_01_exam_schedule.txt": [
+      28
+    ]
+  },
+  "earphones": {
+    "doc_01_exam_schedule.txt": [
+      29
+    ]
+  },
+  "strictly": {
+    "doc_01_exam_schedule.txt": [
+      31
+    ],
+    "doc_04_academic_calendar.txt": [
+      26
+    ]
+  },
+  "prohibited": {
+    "doc_01_exam_schedule.txt": [
+      32
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      16
+    ]
+  },
+  "inside": {
+    "doc_01_exam_schedule.txt": [
+      33
+    ],
+    "doc_19_library_guidelines.txt": [
+      32
+    ]
+  },
+  "center": {
+    "doc_01_exam_schedule.txt": [
+      36
+    ]
+  },
+  "any": {
+    "doc_01_exam_schedule.txt": [
+      37
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      16,
+      15
+    ]
+  },
+  "violation": {
+    "doc_01_exam_schedule.txt": [
+      38
+    ]
+  },
+  "dealt": {
+    "doc_01_exam_schedule.txt": [
+      41
+    ]
+  },
+  "with": {
+    "doc_01_exam_schedule.txt": [
+      42
+    ],
+    "doc_02_admit_card_circular.txt": [
+      23
+    ],
+    "doc_04_academic_calendar.txt": [
+      9,
+      29
+    ],
+    "doc_05_attendance_policy.txt": [
+      3
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      35
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      28
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      43
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      40
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      26
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      14,
+      13
+    ],
+    "doc_18_internship_drive.txt": [
+      16
+    ],
+    "doc_19_library_guidelines.txt": [
+      7
+    ]
+  },
+  "under": {
+    "doc_01_exam_schedule.txt": [
+      43
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      1
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      7
+    ]
+  },
+  "institutional": {
+    "doc_01_exam_schedule.txt": [
+      44
+    ],
+    "doc_02_admit_card_circular.txt": [
+      13
+    ],
+    "doc_04_academic_calendar.txt": [
+      7
+    ],
+    "doc_05_attendance_policy.txt": [
+      9
+    ]
+  },
+  "unfair": {
+    "doc_01_exam_schedule.txt": [
+      45
+    ]
+  },
+  "means": {
+    "doc_01_exam_schedule.txt": [
+      46
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      20
+    ]
+  },
+  "regulations": {
+    "doc_01_exam_schedule.txt": [
+      47
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      9
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      10
+    ]
+  },
+  "controller": {
+    "doc_02_admit_card_circular.txt": [
+      2
+    ]
+  },
+  "of": {
+    "doc_02_admit_card_circular.txt": [
+      3,
+      16,
+      29
+    ],
+    "doc_03_revaluation_rules.txt": [
+      19,
+      7,
+      23,
+      31,
+      26
+    ],
+    "doc_05_attendance_policy.txt": [
+      12
+    ],
+    "doc_06_elective_registration.txt": [
+      48
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      4
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      6,
+      7,
+      4
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      21
+    ],
+    "doc_16_sports_meet.txt": [
+      3,
+      3
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      8,
+      22,
+      44,
+      40
+    ],
+    "doc_19_library_guidelines.txt": [
+      9,
+      15,
+      35
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      2
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      15,
+      19,
+      33
+    ]
+  },
+  "announces": {
+    "doc_02_admit_card_circular.txt": [
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      7
+    ]
+  },
+  "digital": {
+    "doc_02_admit_card_circular.txt": [
+      7
+    ],
+    "doc_19_library_guidelines.txt": [
+      16,
+      22,
+      2
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      15
+    ]
+  },
+  "tickets": {
+    "doc_02_admit_card_circular.txt": [
+      9,
+      13
+    ]
+  },
+  "cards": {
+    "doc_02_admit_card_circular.txt": [
+      12,
+      30
+    ],
+    "doc_19_library_guidelines.txt": [
+      27
+    ]
+  },
+  "upcoming": {
+    "doc_02_admit_card_circular.txt": [
+      15
+    ]
+  },
+  "now": {
+    "doc_02_admit_card_circular.txt": [
+      19
+    ],
+    "doc_06_elective_registration.txt": [
+      18
+    ]
+  },
+  "available": {
+    "doc_02_admit_card_circular.txt": [
+      20
+    ],
+    "doc_06_elective_registration.txt": [
+      1
+    ]
+  },
+  "download": {
+    "doc_02_admit_card_circular.txt": [
+      22
+    ]
+  },
+  "via": {
+    "doc_02_admit_card_circular.txt": [
+      23
+    ],
+    "doc_03_revaluation_rules.txt": [
+      40
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      17
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      19
+    ]
+  },
+  "university": {
+    "doc_02_admit_card_circular.txt": [
+      25
+    ],
+    "doc_05_attendance_policy.txt": [
+      33
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      2
+    ],
+    "doc_16_sports_meet.txt": [
+      23,
+      7
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      3
+    ],
+    "doc_19_library_guidelines.txt": [
+      2
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      2,
+      31
+    ]
+  },
+  "student": {
+    "doc_02_admit_card_circular.txt": [
+      26
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      14
+    ],
+    "doc_16_sports_meet.txt": [
+      30
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      16
+    ]
+  },
+  "eligible": {
+    "doc_02_admit_card_circular.txt": [
+      3
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      13
+    ],
+    "doc_18_internship_drive.txt": [
+      5
+    ]
+  },
+  "generation": {
+    "doc_02_admit_card_circular.txt": [
+      7
+    ]
+  },
+  "satisfy": {
+    "doc_02_admit_card_circular.txt": [
+      10
+    ]
+  },
+  "mandatory": {
+    "doc_02_admit_card_circular.txt": [
+      12
+    ],
+    "doc_05_attendance_policy.txt": [
+      24
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      43
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      7
+    ]
+  },
+  "conditions": {
+    "doc_02_admit_card_circular.txt": [
+      14
+    ]
+  },
+  "clearance": {
+    "doc_02_admit_card_circular.txt": [
+      15
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      40
+    ]
+  },
+  "pending": {
+    "doc_02_admit_card_circular.txt": [
+      18
+    ],
+    "doc_19_library_guidelines.txt": [
+      29
+    ]
+  },
+  "tuition": {
+    "doc_02_admit_card_circular.txt": [
+      19
+    ]
+  },
+  "laboratory": {
+    "doc_02_admit_card_circular.txt": [
+      21,
+      43
+    ],
+    "doc_04_academic_calendar.txt": [
+      44
+    ],
+    "doc_05_attendance_policy.txt": [
+      21
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      1
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      1
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      1,
+      7,
+      2
+    ]
+  },
+  "dues": {
+    "doc_02_admit_card_circular.txt": [
+      22
+    ]
+  },
+  "finance": {
+    "doc_02_admit_card_circular.txt": [
+      25
+    ]
+  },
+  "office": {
+    "doc_02_admit_card_circular.txt": [
+      26
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      4
+    ]
+  },
+  "attainment": {
+    "doc_02_admit_card_circular.txt": [
+      28
+    ]
+  },
+  "a": {
+    "doc_02_admit_card_circular.txt": [
+      30,
+      33
+    ],
+    "doc_03_revaluation_rules.txt": [
+      26,
+      24
+    ],
+    "doc_05_attendance_policy.txt": [
+      9,
+      21
+    ],
+    "doc_06_elective_registration.txt": [
+      34,
+      42
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      22
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      8
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      16
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      4,
+      8,
+      14
+    ],
+    "doc_18_internship_drive.txt": [
+      5
+    ],
+    "doc_19_library_guidelines.txt": [
+      11,
+      33
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      4,
+      3
+    ]
+  },
+  "minimum": {
+    "doc_02_admit_card_circular.txt": [
+      31
+    ],
+    "doc_05_attendance_policy.txt": [
+      10
+    ],
+    "doc_07_daa_syllabus.txt": [
+      47
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      28
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      5
+    ]
+  },
+  "aggregate": {
+    "doc_02_admit_card_circular.txt": [
+      32
+    ],
+    "doc_05_attendance_policy.txt": [
+      3
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      6
+    ]
+  },
+  "75": {
+    "doc_02_admit_card_circular.txt": [
+      33
+    ],
+    "doc_05_attendance_policy.txt": [
+      13,
+      15
+    ]
+  },
+  "percent": {
+    "doc_02_admit_card_circular.txt": [
+      34
+    ],
+    "doc_05_attendance_policy.txt": [
+      14,
+      16,
+      22,
+      8
+    ]
+  },
+  "attendance": {
+    "doc_02_admit_card_circular.txt": [
+      35
+    ],
+    "doc_05_attendance_policy.txt": [
+      11,
+      1,
+      23,
+      4
+    ]
+  },
+  "across": {
+    "doc_02_admit_card_circular.txt": [
+      36
+    ],
+    "doc_06_elective_registration.txt": [
+      20
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      9
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      11
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      18
+    ]
+  },
+  "enrolled": {
+    "doc_02_admit_card_circular.txt": [
+      38
+    ],
+    "doc_05_attendance_policy.txt": [
+      17
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      29
+    ]
+  },
+  "academic": {
+    "doc_02_admit_card_circular.txt": [
+      39
+    ],
+    "doc_04_academic_calendar.txt": [
+      2,
+      13
+    ],
+    "doc_05_attendance_policy.txt": [
+      5,
+      30
+    ],
+    "doc_06_elective_registration.txt": [
+      23
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      17
+    ],
+    "doc_19_library_guidelines.txt": [
+      17,
+      13
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      19
+    ]
+  },
+  "lecture": {
+    "doc_02_admit_card_circular.txt": [
+      40
+    ],
+    "doc_05_attendance_policy.txt": [
+      18
+    ]
+  },
+  "courses": {
+    "doc_02_admit_card_circular.txt": [
+      41
+    ]
+  },
+  "sessions": {
+    "doc_02_admit_card_circular.txt": [
+      44
+    ],
+    "doc_05_attendance_policy.txt": [
+      31
+    ]
+  },
+  "encountering": {
+    "doc_02_admit_card_circular.txt": [
+      2
+    ]
+  },
+  "biometric": {
+    "doc_02_admit_card_circular.txt": [
+      3
+    ]
+  },
+  "verification": {
+    "doc_02_admit_card_circular.txt": [
+      4
+    ],
+    "doc_03_revaluation_rules.txt": [
+      3
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      50
+    ]
+  },
+  "discrepancies": {
+    "doc_02_admit_card_circular.txt": [
+      5
+    ]
+  },
+  "or": {
+    "doc_02_admit_card_circular.txt": [
+      6
+    ],
+    "doc_03_revaluation_rules.txt": [
+      4
+    ],
+    "doc_05_attendance_policy.txt": [
+      30
+    ],
+    "doc_06_elective_registration.txt": [
+      51
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      13,
+      21,
+      2,
+      18
+    ]
+  },
+  "photographic": {
+    "doc_02_admit_card_circular.txt": [
+      7
+    ]
+  },
+  "mismatches": {
+    "doc_02_admit_card_circular.txt": [
+      8
+    ]
+  },
+  "generated": {
+    "doc_02_admit_card_circular.txt": [
+      11
+    ]
+  },
+  "advised": {
+    "doc_02_admit_card_circular.txt": [
+      15
+    ]
+  },
+  "report": {
+    "doc_02_admit_card_circular.txt": [
+      17
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      5
+    ]
+  },
+  "cell": {
+    "doc_02_admit_card_circular.txt": [
+      21
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      5
+    ]
+  },
+  "administrative": {
+    "doc_02_admit_card_circular.txt": [
+      22
+    ]
+  },
+  "desk": {
+    "doc_02_admit_card_circular.txt": [
+      23
+    ]
+  },
+  "before": {
+    "doc_02_admit_card_circular.txt": [
+      24
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      35
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      38
+    ]
+  },
+  "10": {
+    "doc_02_admit_card_circular.txt": [
+      26
+    ],
+    "doc_16_sports_meet.txt": [
+      25
+    ]
+  },
+  "duplicate": {
+    "doc_02_admit_card_circular.txt": [
+      28
+    ]
+  },
+  "incur": {
+    "doc_02_admit_card_circular.txt": [
+      32
+    ],
+    "doc_19_library_guidelines.txt": [
+      32
+    ]
+  },
+  "nominal": {
+    "doc_02_admit_card_circular.txt": [
+      34
+    ]
+  },
+  "re": {
+    "doc_02_admit_card_circular.txt": [
+      35
+    ],
+    "doc_03_revaluation_rules.txt": [
+      5
+    ],
+    "doc_05_attendance_policy.txt": [
+      26
+    ]
+  },
+  "issuance": {
+    "doc_02_admit_card_circular.txt": [
+      36
+    ]
+  },
+  "fee": {
+    "doc_02_admit_card_circular.txt": [
+      37
+    ],
+    "doc_03_revaluation_rules.txt": [
+      30
+    ]
+  },
+  "this": {
+    "doc_03_revaluation_rules.txt": [
+      1
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      1
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      1
+    ]
+  },
+  "document": {
+    "doc_03_revaluation_rules.txt": [
+      2
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      31
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      13
+    ]
+  },
+  "delineates": {
+    "doc_03_revaluation_rules.txt": [
+      3
+    ]
+  },
+  "standardized": {
+    "doc_03_revaluation_rules.txt": [
+      5
+    ]
+  },
+  "operating": {
+    "doc_03_revaluation_rules.txt": [
+      6
+    ],
+    "doc_08_os_syllabus.txt": [
+      4
+    ]
+  },
+  "procedure": {
+    "doc_03_revaluation_rules.txt": [
+      7
+    ]
+  },
+  "governing": {
+    "doc_03_revaluation_rules.txt": [
+      8
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      9
+    ]
+  },
+  "answer": {
+    "doc_03_revaluation_rules.txt": [
+      9,
+      11
+    ]
+  },
+  "script": {
+    "doc_03_revaluation_rules.txt": [
+      10
+    ]
+  },
+  "revaluation": {
+    "doc_03_revaluation_rules.txt": [
+      11
+    ]
+  },
+  "supplementary": {
+    "doc_03_revaluation_rules.txt": [
+      13,
+      1,
+      28
+    ]
+  },
+  "applications": {
+    "doc_03_revaluation_rules.txt": [
+      15
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      13
+    ],
+    "doc_18_internship_drive.txt": [
+      1
+    ]
+  },
+  "following": {
+    "doc_03_revaluation_rules.txt": [
+      16
+    ]
+  },
+  "announcement": {
+    "doc_03_revaluation_rules.txt": [
+      18
+    ]
+  },
+  "results": {
+    "doc_03_revaluation_rules.txt": [
+      21
+    ]
+  },
+  "seeking": {
+    "doc_03_revaluation_rules.txt": [
+      2
+    ]
+  },
+  "checking": {
+    "doc_03_revaluation_rules.txt": [
+      6
+    ]
+  },
+  "graded": {
+    "doc_03_revaluation_rules.txt": [
+      9
+    ]
+  },
+  "booklets": {
+    "doc_03_revaluation_rules.txt": [
+      12
+    ]
+  },
+  "may": {
+    "doc_03_revaluation_rules.txt": [
+      13
+    ],
+    "doc_05_attendance_policy.txt": [
+      36
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      31
+    ],
+    "doc_19_library_guidelines.txt": [
+      3
+    ]
+  },
+  "submit": {
+    "doc_03_revaluation_rules.txt": [
+      14
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      32
+    ]
+  },
+  "an": {
+    "doc_03_revaluation_rules.txt": [
+      15
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      32
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      34,
+      11
+    ],
+    "doc_19_library_guidelines.txt": [
+      6
+    ]
+  },
+  "online": {
+    "doc_03_revaluation_rules.txt": [
+      16
+    ],
+    "doc_06_elective_registration.txt": [
+      1
+    ],
+    "doc_18_internship_drive.txt": [
+      35
+    ]
+  },
+  "grievance": {
+    "doc_03_revaluation_rules.txt": [
+      17
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      22
+    ]
+  },
+  "form": {
+    "doc_03_revaluation_rules.txt": [
+      18
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      26
+    ]
+  },
+  "within": {
+    "doc_03_revaluation_rules.txt": [
+      19
+    ]
+  },
+  "fifteen": {
+    "doc_03_revaluation_rules.txt": [
+      20
+    ]
+  },
+  "business": {
+    "doc_03_revaluation_rules.txt": [
+      21
+    ]
+  },
+  "days": {
+    "doc_03_revaluation_rules.txt": [
+      22
+    ],
+    "doc_19_library_guidelines.txt": [
+      18
+    ]
+  },
+  "score": {
+    "doc_03_revaluation_rules.txt": [
+      24
+    ]
+  },
+  "publication": {
+    "doc_03_revaluation_rules.txt": [
+      25
+    ]
+  },
+  "non": {
+    "doc_03_revaluation_rules.txt": [
+      27
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      32
+    ]
+  },
+  "refundable": {
+    "doc_03_revaluation_rules.txt": [
+      28
+    ]
+  },
+  "processing": {
+    "doc_03_revaluation_rules.txt": [
+      29
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      32
+    ]
+  },
+  "five": {
+    "doc_03_revaluation_rules.txt": [
+      32
+    ]
+  },
+  "hundred": {
+    "doc_03_revaluation_rules.txt": [
+      33
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      23
+    ]
+  },
+  "rupees": {
+    "doc_03_revaluation_rules.txt": [
+      34
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      25
+    ],
+    "doc_19_library_guidelines.txt": [
+      37
+    ]
+  },
+  "per": {
+    "doc_03_revaluation_rules.txt": [
+      35,
+      31
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      20
+    ],
+    "doc_19_library_guidelines.txt": [
+      38,
+      40
+    ]
+  },
+  "course": {
+    "doc_03_revaluation_rules.txt": [
+      36,
+      29
+    ],
+    "doc_05_attendance_policy.txt": [
+      22,
+      25
+    ],
+    "doc_06_elective_registration.txt": [
+      23,
+      5
+    ],
+    "doc_07_daa_syllabus.txt": [
+      1
+    ],
+    "doc_08_os_syllabus.txt": [
+      1
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      1,
+      2
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      1
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      2
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      2
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      2
+    ]
+  },
+  "deposited": {
+    "doc_03_revaluation_rules.txt": [
+      39
+    ]
+  },
+  "payment": {
+    "doc_03_revaluation_rules.txt": [
+      43
+    ]
+  },
+  "gateway": {
+    "doc_03_revaluation_rules.txt": [
+      44
+    ]
+  },
+  "improvement": {
+    "doc_03_revaluation_rules.txt": [
+      3
+    ]
+  },
+  "candidates": {
+    "doc_03_revaluation_rules.txt": [
+      6
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      34
+    ]
+  },
+  "securing": {
+    "doc_03_revaluation_rules.txt": [
+      7
+    ],
+    "doc_06_elective_registration.txt": [
+      8
+    ]
+  },
+  "backlog": {
+    "doc_03_revaluation_rules.txt": [
+      8
+    ]
+  },
+  "grades": {
+    "doc_03_revaluation_rules.txt": [
+      9
+    ]
+  },
+  "concurrently": {
+    "doc_03_revaluation_rules.txt": [
+      13
+    ]
+  },
+  "during": {
+    "doc_03_revaluation_rules.txt": [
+      14
+    ],
+    "doc_16_sports_meet.txt": [
+      14
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      44
+    ],
+    "doc_18_internship_drive.txt": [
+      13
+    ]
+  },
+  "winter": {
+    "doc_03_revaluation_rules.txt": [
+      16
+    ]
+  },
+  "inter": {
+    "doc_03_revaluation_rules.txt": [
+      17
+    ],
+    "doc_05_attendance_policy.txt": [
+      32
+    ],
+    "doc_08_os_syllabus.txt": [
+      17
+    ],
+    "doc_16_sports_meet.txt": [
+      11,
+      16
+    ]
+  },
+  "break": {
+    "doc_03_revaluation_rules.txt": [
+      19
+    ]
+  },
+  "can": {
+    "doc_03_revaluation_rules.txt": [
+      21
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      4
+    ]
+  },
+  "register": {
+    "doc_03_revaluation_rules.txt": [
+      22
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      16
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      27
+    ]
+  },
+  "maximum": {
+    "doc_03_revaluation_rules.txt": [
+      25
+    ]
+  },
+  "four": {
+    "doc_03_revaluation_rules.txt": [
+      27
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      28
+    ],
+    "doc_19_library_guidelines.txt": [
+      7
+    ]
+  },
+  "papers": {
+    "doc_03_revaluation_rules.txt": [
+      30
+    ],
+    "doc_06_elective_registration.txt": [
+      20
+    ]
+  },
+  "cycle": {
+    "doc_03_revaluation_rules.txt": [
+      33
+    ]
+  },
+  "council": {
+    "doc_04_academic_calendar.txt": [
+      3
+    ],
+    "doc_05_attendance_policy.txt": [
+      6
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      5
+    ]
+  },
+  "publishes": {
+    "doc_04_academic_calendar.txt": [
+      4
+    ]
+  },
+  "comprehensive": {
+    "doc_04_academic_calendar.txt": [
+      6
+    ]
+  },
+  "calendar": {
+    "doc_04_academic_calendar.txt": [
+      8
+    ],
+    "doc_19_library_guidelines.txt": [
+      17
+    ]
+  },
+  "2027": {
+    "doc_04_academic_calendar.txt": [
+      12,
+      8,
+      17
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      12
+    ]
+  },
+  "year": {
+    "doc_04_academic_calendar.txt": [
+      14
+    ],
+    "doc_06_elective_registration.txt": [
+      15
+    ],
+    "doc_18_internship_drive.txt": [
+      8
+    ]
+  },
+  "engineering": {
+    "doc_04_academic_calendar.txt": [
+      17
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      7
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      19
+    ],
+    "doc_18_internship_drive.txt": [
+      22
+    ]
+  },
+  "technology": {
+    "doc_04_academic_calendar.txt": [
+      19
+    ],
+    "doc_06_elective_registration.txt": [
+      9
+    ],
+    "doc_18_internship_drive.txt": [
+      19
+    ]
+  },
+  "disciplines": {
+    "doc_04_academic_calendar.txt": [
+      20
+    ]
+  },
+  "classes": {
+    "doc_04_academic_calendar.txt": [
+      3,
+      35
+    ]
+  },
+  "august": {
+    "doc_04_academic_calendar.txt": [
+      6
+    ],
+    "doc_06_elective_registration.txt": [
+      13
+    ]
+  },
+  "3": {
+    "doc_04_academic_calendar.txt": [
+      7,
+      22
+    ],
+    "doc_07_daa_syllabus.txt": [
+      36
+    ],
+    "doc_08_os_syllabus.txt": [
+      2
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      14,
+      42
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      32
+    ]
+  },
+  "mid": {
+    "doc_04_academic_calendar.txt": [
+      10,
+      33
+    ]
+  },
+  "internal": {
+    "doc_04_academic_calendar.txt": [
+      12
+    ]
+  },
+  "assessment": {
+    "doc_04_academic_calendar.txt": [
+      13
+    ]
+  },
+  "evaluations": {
+    "doc_04_academic_calendar.txt": [
+      14
+    ],
+    "doc_18_internship_drive.txt": [
+      45
+    ]
+  },
+  "september": {
+    "doc_04_academic_calendar.txt": [
+      18
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      36
+    ]
+  },
+  "28": {
+    "doc_04_academic_calendar.txt": [
+      19
+    ]
+  },
+  "october": {
+    "doc_04_academic_calendar.txt": [
+      21,
+      34
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      20,
+      23
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      20
+    ],
+    "doc_16_sports_meet.txt": [
+      24,
+      27
+    ]
+  },
+  "annual": {
+    "doc_04_academic_calendar.txt": [
+      25
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      9
+    ],
+    "doc_16_sports_meet.txt": [
+      10
+    ]
+  },
+  "cultural": {
+    "doc_04_academic_calendar.txt": [
+      26
+    ]
+  },
+  "technological": {
+    "doc_04_academic_calendar.txt": [
+      28
+    ]
+  },
+  "festival": {
+    "doc_04_academic_calendar.txt": [
+      29
+    ]
+  },
+  "takes": {
+    "doc_04_academic_calendar.txt": [
+      30
+    ]
+  },
+  "place": {
+    "doc_04_academic_calendar.txt": [
+      31
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      18
+    ],
+    "doc_16_sports_meet.txt": [
+      22
+    ]
+  },
+  "conclude": {
+    "doc_04_academic_calendar.txt": [
+      36
+    ]
+  },
+  "followed": {
+    "doc_04_academic_calendar.txt": [
+      41
+    ]
+  },
+  "by": {
+    "doc_04_academic_calendar.txt": [
+      42
+    ],
+    "doc_05_attendance_policy.txt": [
+      42
+    ],
+    "doc_07_daa_syllabus.txt": [
+      35
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      43
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      19
+    ]
+  },
+  "practical": {
+    "doc_04_academic_calendar.txt": [
+      43
+    ],
+    "doc_05_attendance_policy.txt": [
+      20
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      20
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      5
+    ]
+  },
+  "exams": {
+    "doc_04_academic_calendar.txt": [
+      45
+    ]
+  },
+  "16": {
+    "doc_04_academic_calendar.txt": [
+      48
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      21
+    ]
+  },
+  "21": {
+    "doc_04_academic_calendar.txt": [
+      51
+    ]
+  },
+  "spring": {
+    "doc_04_academic_calendar.txt": [
+      1
+    ]
+  },
+  "registration": {
+    "doc_04_academic_calendar.txt": [
+      3
+    ],
+    "doc_05_attendance_policy.txt": [
+      27
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      24
+    ]
+  },
+  "commences": {
+    "doc_04_academic_calendar.txt": [
+      4
+    ]
+  },
+  "january": {
+    "doc_04_academic_calendar.txt": [
+      6,
+      15
+    ]
+  },
+  "4": {
+    "doc_04_academic_calendar.txt": [
+      7
+    ],
+    "doc_07_daa_syllabus.txt": [
+      5,
+      2
+    ],
+    "doc_08_os_syllabus.txt": [
+      5,
+      23
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      5
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      5
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      27
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      2
+    ]
+  },
+  "regular": {
+    "doc_04_academic_calendar.txt": [
+      10
+    ]
+  },
+  "classroom": {
+    "doc_04_academic_calendar.txt": [
+      11
+    ]
+  },
+  "lectures": {
+    "doc_04_academic_calendar.txt": [
+      12
+    ]
+  },
+  "starting": {
+    "doc_04_academic_calendar.txt": [
+      13
+    ]
+  },
+  "11": {
+    "doc_04_academic_calendar.txt": [
+      16
+    ]
+  },
+  "plan": {
+    "doc_04_academic_calendar.txt": [
+      20
+    ]
+  },
+  "internships": {
+    "doc_04_academic_calendar.txt": [
+      21
+    ],
+    "doc_18_internship_drive.txt": [
+      7,
+      19
+    ]
+  },
+  "travel": {
+    "doc_04_academic_calendar.txt": [
+      22
+    ]
+  },
+  "extracurricular": {
+    "doc_04_academic_calendar.txt": [
+      24
+    ]
+  },
+  "commitments": {
+    "doc_04_academic_calendar.txt": [
+      25
+    ]
+  },
+  "accordance": {
+    "doc_04_academic_calendar.txt": [
+      28
+    ],
+    "doc_05_attendance_policy.txt": [
+      2
+    ]
+  },
+  "these": {
+    "doc_04_academic_calendar.txt": [
+      30
+    ]
+  },
+  "gazetted": {
+    "doc_04_academic_calendar.txt": [
+      31
+    ]
+  },
+  "dates": {
+    "doc_04_academic_calendar.txt": [
+      32
+    ]
+  },
+  "statutory": {
+    "doc_05_attendance_policy.txt": [
+      4
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      12
+    ]
+  },
+  "ordinances": {
+    "doc_05_attendance_policy.txt": [
+      7
+    ]
+  },
+  "maintaining": {
+    "doc_05_attendance_policy.txt": [
+      8
+    ]
+  },
+  "is": {
+    "doc_05_attendance_policy.txt": [
+      23
+    ],
+    "doc_06_elective_registration.txt": [
+      17,
+      12
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      6
+    ],
+    "doc_19_library_guidelines.txt": [
+      5
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      15
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      2
+    ]
+  },
+  "records": {
+    "doc_05_attendance_policy.txt": [
+      2
+    ]
+  },
+  "updated": {
+    "doc_05_attendance_policy.txt": [
+      4
+    ]
+  },
+  "campusfind": {
+    "doc_05_attendance_policy.txt": [
+      8
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      26
+    ]
+  },
+  "erp": {
+    "doc_05_attendance_policy.txt": [
+      10
+    ]
+  },
+  "falling": {
+    "doc_05_attendance_policy.txt": [
+      13
+    ]
+  },
+  "below": {
+    "doc_05_attendance_policy.txt": [
+      14,
+      6
+    ]
+  },
+  "but": {
+    "doc_05_attendance_policy.txt": [
+      17
+    ]
+  },
+  "having": {
+    "doc_05_attendance_policy.txt": [
+      18
+    ]
+  },
+  "at": {
+    "doc_05_attendance_policy.txt": [
+      19
+    ],
+    "doc_06_elective_registration.txt": [
+      26
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      25
+    ],
+    "doc_16_sports_meet.txt": [
+      21
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      19
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      6
+    ]
+  },
+  "least": {
+    "doc_05_attendance_policy.txt": [
+      20
+    ]
+  },
+  "65": {
+    "doc_05_attendance_policy.txt": [
+      21,
+      7
+    ]
+  },
+  "due": {
+    "doc_05_attendance_policy.txt": [
+      24
+    ]
+  },
+  "verified": {
+    "doc_05_attendance_policy.txt": [
+      26
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      36
+    ]
+  },
+  "medical": {
+    "doc_05_attendance_policy.txt": [
+      27,
+      39,
+      44
+    ]
+  },
+  "emergencies": {
+    "doc_05_attendance_policy.txt": [
+      28
+    ]
+  },
+  "hospitalization": {
+    "doc_05_attendance_policy.txt": [
+      29
+    ]
+  },
+  "sanctioned": {
+    "doc_05_attendance_policy.txt": [
+      31
+    ],
+    "doc_16_sports_meet.txt": [
+      38
+    ]
+  },
+  "sports": {
+    "doc_05_attendance_policy.txt": [
+      34
+    ],
+    "doc_16_sports_meet.txt": [
+      13,
+      24
+    ]
+  },
+  "representation": {
+    "doc_05_attendance_policy.txt": [
+      35
+    ]
+  },
+  "apply": {
+    "doc_05_attendance_policy.txt": [
+      37
+    ]
+  },
+  "condonation": {
+    "doc_05_attendance_policy.txt": [
+      40
+    ]
+  },
+  "supported": {
+    "doc_05_attendance_policy.txt": [
+      41
+    ]
+  },
+  "registered": {
+    "doc_05_attendance_policy.txt": [
+      43
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      33
+    ]
+  },
+  "practitioner": {
+    "doc_05_attendance_policy.txt": [
+      45
+    ]
+  },
+  "certificates": {
+    "doc_05_attendance_policy.txt": [
+      46
+    ],
+    "doc_16_sports_meet.txt": [
+      2
+    ]
+  },
+  "whose": {
+    "doc_05_attendance_policy.txt": [
+      2
+    ]
+  },
+  "falls": {
+    "doc_05_attendance_policy.txt": [
+      5
+    ]
+  },
+  "debarred": {
+    "doc_05_attendance_policy.txt": [
+      11
+    ]
+  },
+  "writing": {
+    "doc_05_attendance_policy.txt": [
+      13
+    ]
+  },
+  "receive": {
+    "doc_05_attendance_policy.txt": [
+      20
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      4
+    ],
+    "doc_16_sports_meet.txt": [
+      33
+    ]
+  },
+  "detained": {
+    "doc_05_attendance_policy.txt": [
+      22
+    ]
+  },
+  "grade": {
+    "doc_05_attendance_policy.txt": [
+      23
+    ],
+    "doc_06_elective_registration.txt": [
+      44
+    ]
+  },
+  "necessitating": {
+    "doc_05_attendance_policy.txt": [
+      24
+    ]
+  },
+  "subsequent": {
+    "doc_05_attendance_policy.txt": [
+      29
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      26
+    ]
+  },
+  "enrollment": {
+    "doc_06_elective_registration.txt": [
+      2
+    ]
+  },
+  "open": {
+    "doc_06_elective_registration.txt": [
+      4,
+      3
+    ]
+  },
+  "electives": {
+    "doc_06_elective_registration.txt": [
+      5,
+      4
+    ]
+  },
+  "departmental": {
+    "doc_06_elective_registration.txt": [
+      7
+    ],
+    "doc_16_sports_meet.txt": [
+      17
+    ],
+    "doc_18_internship_drive.txt": [
+      13
+    ]
+  },
+  "honours": {
+    "doc_06_elective_registration.txt": [
+      8
+    ]
+  },
+  "tracks": {
+    "doc_06_elective_registration.txt": [
+      9
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      3
+    ]
+  },
+  "pre": {
+    "doc_06_elective_registration.txt": [
+      11
+    ],
+    "doc_18_internship_drive.txt": [
+      6
+    ]
+  },
+  "final": {
+    "doc_06_elective_registration.txt": [
+      12,
+      14
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      28
+    ],
+    "doc_18_internship_drive.txt": [
+      7
+    ]
+  },
+  "active": {
+    "doc_06_elective_registration.txt": [
+      19
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      16
+    ]
+  },
+  "central": {
+    "doc_06_elective_registration.txt": [
+      22
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      27
+    ],
+    "doc_19_library_guidelines.txt": [
+      3
+    ]
+  },
+  "interdisciplinary": {
+    "doc_06_elective_registration.txt": [
+      2
+    ]
+  },
+  "include": {
+    "doc_06_elective_registration.txt": [
+      5
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      3
+    ],
+    "doc_18_internship_drive.txt": [
+      34
+    ]
+  },
+  "cloud": {
+    "doc_06_elective_registration.txt": [
+      6
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      5
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      14
+    ],
+    "doc_18_internship_drive.txt": [
+      23
+    ]
+  },
+  "computing": {
+    "doc_06_elective_registration.txt": [
+      7
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      6
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      28
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      15
+    ]
+  },
+  "financial": {
+    "doc_06_elective_registration.txt": [
+      8
+    ],
+    "doc_18_internship_drive.txt": [
+      24
+    ]
+  },
+  "cyber": {
+    "doc_06_elective_registration.txt": [
+      10
+    ],
+    "doc_18_internship_drive.txt": [
+      27
+    ]
+  },
+  "security": {
+    "doc_06_elective_registration.txt": [
+      11
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      19
+    ],
+    "doc_18_internship_drive.txt": [
+      28
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      23
+    ]
+  },
+  "fundamentals": {
+    "doc_06_elective_registration.txt": [
+      12
+    ],
+    "doc_07_daa_syllabus.txt": [
+      30
+    ]
+  },
+  "sustainable": {
+    "doc_06_elective_registration.txt": [
+      13
+    ]
+  },
+  "energy": {
+    "doc_06_elective_registration.txt": [
+      14
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      22
+    ]
+  },
+  "systems": {
+    "doc_06_elective_registration.txt": [
+      15
+    ],
+    "doc_08_os_syllabus.txt": [
+      26
+    ],
+    "doc_18_internship_drive.txt": [
+      31
+    ]
+  },
+  "industrial": {
+    "doc_06_elective_registration.txt": [
+      17
+    ],
+    "doc_18_internship_drive.txt": [
+      13
+    ]
+  },
+  "robotics": {
+    "doc_06_elective_registration.txt": [
+      18
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      17
+    ]
+  },
+  "seats": {
+    "doc_06_elective_registration.txt": [
+      19
+    ]
+  },
+  "elective": {
+    "doc_06_elective_registration.txt": [
+      22,
+      19
+    ]
+  },
+  "capped": {
+    "doc_06_elective_registration.txt": [
+      25
+    ]
+  },
+  "sixty": {
+    "doc_06_elective_registration.txt": [
+      27
+    ]
+  },
+  "allocated": {
+    "doc_06_elective_registration.txt": [
+      32
+    ]
+  },
+  "first": {
+    "doc_06_elective_registration.txt": [
+      35,
+      37
+    ]
+  },
+  "come": {
+    "doc_06_elective_registration.txt": [
+      36
+    ]
+  },
+  "served": {
+    "doc_06_elective_registration.txt": [
+      38
+    ]
+  },
+  "basis": {
+    "doc_06_elective_registration.txt": [
+      39
+    ]
+  },
+  "subject": {
+    "doc_06_elective_registration.txt": [
+      40
+    ]
+  },
+  "cumulative": {
+    "doc_06_elective_registration.txt": [
+      43
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      17
+    ]
+  },
+  "point": {
+    "doc_06_elective_registration.txt": [
+      45
+    ]
+  },
+  "average": {
+    "doc_06_elective_registration.txt": [
+      46
+    ]
+  },
+  "threshold": {
+    "doc_06_elective_registration.txt": [
+      47
+    ]
+  },
+  "7": {
+    "doc_06_elective_registration.txt": [
+      49
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      11
+    ]
+  },
+  "0": {
+    "doc_06_elective_registration.txt": [
+      50
+    ],
+    "doc_07_daa_syllabus.txt": [
+      10
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      19
+    ]
+  },
+  "higher": {
+    "doc_06_elective_registration.txt": [
+      52
+    ]
+  },
+  "deadline": {
+    "doc_06_elective_registration.txt": [
+      2,
+      29
+    ]
+  },
+  "submitting": {
+    "doc_06_elective_registration.txt": [
+      4
+    ]
+  },
+  "preferences": {
+    "doc_06_elective_registration.txt": [
+      6
+    ]
+  },
+  "faculty": {
+    "doc_06_elective_registration.txt": [
+      9
+    ]
+  },
+  "mentor": {
+    "doc_06_elective_registration.txt": [
+      10
+    ]
+  },
+  "approval": {
+    "doc_06_elective_registration.txt": [
+      11
+    ]
+  },
+  "22": {
+    "doc_06_elective_registration.txt": [
+      14
+    ]
+  },
+  "changes": {
+    "doc_06_elective_registration.txt": [
+      16
+    ]
+  },
+  "selected": {
+    "doc_06_elective_registration.txt": [
+      18
+    ]
+  },
+  "not": {
+    "doc_06_elective_registration.txt": [
+      22
+    ]
+  },
+  "entertained": {
+    "doc_06_elective_registration.txt": [
+      24
+    ]
+  },
+  "after": {
+    "doc_06_elective_registration.txt": [
+      25
+    ]
+  },
+  "add": {
+    "doc_06_elective_registration.txt": [
+      27
+    ]
+  },
+  "drop": {
+    "doc_06_elective_registration.txt": [
+      28
+    ]
+  },
+  "code": {
+    "doc_07_daa_syllabus.txt": [
+      2
+    ],
+    "doc_08_os_syllabus.txt": [
+      2
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      2
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      2
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      3
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      3,
+      25
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      3
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      39
+    ]
+  },
+  "cs501": {
+    "doc_07_daa_syllabus.txt": [
+      3
+    ]
+  },
+  "credits": {
+    "doc_07_daa_syllabus.txt": [
+      4
+    ],
+    "doc_08_os_syllabus.txt": [
+      4
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      4
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      4
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      7
+    ]
+  },
+  "prerequisites": {
+    "doc_07_daa_syllabus.txt": [
+      6
+    ],
+    "doc_08_os_syllabus.txt": [
+      6
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      6
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      6
+    ]
+  },
+  "data": {
+    "doc_07_daa_syllabus.txt": [
+      7
+    ],
+    "doc_18_internship_drive.txt": [
+      25,
+      39
+    ]
+  },
+  "structures": {
+    "doc_07_daa_syllabus.txt": [
+      8
+    ],
+    "doc_08_os_syllabus.txt": [
+      6
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      29
+    ],
+    "doc_18_internship_drive.txt": [
+      40
+    ]
+  },
+  "discrete": {
+    "doc_07_daa_syllabus.txt": [
+      10
+    ]
+  },
+  "mathematics": {
+    "doc_07_daa_syllabus.txt": [
+      11
+    ]
+  },
+  "module": {
+    "doc_07_daa_syllabus.txt": [
+      1,
+      19,
+      35,
+      1,
+      17
+    ]
+  },
+  "1": {
+    "doc_07_daa_syllabus.txt": [
+      2,
+      11
+    ],
+    "doc_08_os_syllabus.txt": [
+      2
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      2,
+      20
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      4
+    ]
+  },
+  "introduces": {
+    "doc_07_daa_syllabus.txt": [
+      3,
+      19
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      3
+    ]
+  },
+  "algorithm": {
+    "doc_07_daa_syllabus.txt": [
+      4,
+      54
+    ],
+    "doc_08_os_syllabus.txt": [
+      39
+    ]
+  },
+  "analysis": {
+    "doc_07_daa_syllabus.txt": [
+      5
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      48
+    ]
+  },
+  "asymptotic": {
+    "doc_07_daa_syllabus.txt": [
+      6
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      29
+    ]
+  },
+  "notation": {
+    "doc_07_daa_syllabus.txt": [
+      7
+    ]
+  },
+  "big": {
+    "doc_07_daa_syllabus.txt": [
+      8,
+      10,
+      12
+    ]
+  },
+  "o": {
+    "doc_07_daa_syllabus.txt": [
+      9
+    ]
+  },
+  "omega": {
+    "doc_07_daa_syllabus.txt": [
+      11
+    ]
+  },
+  "theta": {
+    "doc_07_daa_syllabus.txt": [
+      13
+    ]
+  },
+  "recurrence": {
+    "doc_07_daa_syllabus.txt": [
+      14
+    ]
+  },
+  "relations": {
+    "doc_07_daa_syllabus.txt": [
+      15
+    ]
+  },
+  "master": {
+    "doc_07_daa_syllabus.txt": [
+      17
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      15
+    ]
+  },
+  "theorem": {
+    "doc_07_daa_syllabus.txt": [
+      18
+    ]
+  },
+  "2": {
+    "doc_07_daa_syllabus.txt": [
+      20
+    ],
+    "doc_08_os_syllabus.txt": [
+      21
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      2
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      22
+    ]
+  },
+  "covers": {
+    "doc_07_daa_syllabus.txt": [
+      21
+    ],
+    "doc_08_os_syllabus.txt": [
+      3
+    ]
+  },
+  "divide": {
+    "doc_07_daa_syllabus.txt": [
+      22
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      5
+    ]
+  },
+  "conquer": {
+    "doc_07_daa_syllabus.txt": [
+      24
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      7
+    ]
+  },
+  "strategies": {
+    "doc_07_daa_syllabus.txt": [
+      25
+    ],
+    "doc_08_os_syllabus.txt": [
+      18
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      20
+    ]
+  },
+  "analyzing": {
+    "doc_07_daa_syllabus.txt": [
+      26
+    ]
+  },
+  "linear": {
+    "doc_07_daa_syllabus.txt": [
+      27
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      7,
+      8
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      8
+    ]
+  },
+  "search": {
+    "doc_07_daa_syllabus.txt": [
+      28,
+      30
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      33
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      11,
+      13,
+      19,
+      23,
+      39
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      9,
+      12
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      20
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      14
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      38
+    ],
+    "doc_19_library_guidelines.txt": [
+      16
+    ]
+  },
+  "binary": {
+    "doc_07_daa_syllabus.txt": [
+      29
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      11
+    ]
+  },
+  "merge": {
+    "doc_07_daa_syllabus.txt": [
+      31
+    ]
+  },
+  "sort": {
+    "doc_07_daa_syllabus.txt": [
+      32
+    ]
+  },
+  "quicksort": {
+    "doc_07_daa_syllabus.txt": [
+      34
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      10
+    ]
+  },
+  "focuses": {
+    "doc_07_daa_syllabus.txt": [
+      37
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      5
+    ]
+  },
+  "greedy": {
+    "doc_07_daa_syllabus.txt": [
+      39
+    ]
+  },
+  "methods": {
+    "doc_07_daa_syllabus.txt": [
+      40
+    ]
+  },
+  "fractional": {
+    "doc_07_daa_syllabus.txt": [
+      42
+    ]
+  },
+  "knapsack": {
+    "doc_07_daa_syllabus.txt": [
+      43,
+      12
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      21
+    ]
+  },
+  "prim": {
+    "doc_07_daa_syllabus.txt": [
+      44
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      34
+    ]
+  },
+  "kruskal": {
+    "doc_07_daa_syllabus.txt": [
+      46
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      32
+    ]
+  },
+  "spanning": {
+    "doc_07_daa_syllabus.txt": [
+      48
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      29
+    ],
+    "doc_18_internship_drive.txt": [
+      8
+    ]
+  },
+  "trees": {
+    "doc_07_daa_syllabus.txt": [
+      49
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      32,
+      34
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      13
+    ]
+  },
+  "dijkstra": {
+    "doc_07_daa_syllabus.txt": [
+      51
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      8
+    ]
+  },
+  "shortest": {
+    "doc_07_daa_syllabus.txt": [
+      52
+    ]
+  },
+  "path": {
+    "doc_07_daa_syllabus.txt": [
+      53
+    ]
+  },
+  "explores": {
+    "doc_07_daa_syllabus.txt": [
+      3
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      33
+    ]
+  },
+  "dynamic": {
+    "doc_07_daa_syllabus.txt": [
+      4
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      15
+    ]
+  },
+  "programming": {
+    "doc_07_daa_syllabus.txt": [
+      5
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      9
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      11
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      16
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      17
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      6
+    ]
+  },
+  "principles": {
+    "doc_07_daa_syllabus.txt": [
+      6
+    ]
+  },
+  "matrix": {
+    "doc_07_daa_syllabus.txt": [
+      7
+    ]
+  },
+  "chain": {
+    "doc_07_daa_syllabus.txt": [
+      8
+    ]
+  },
+  "multiplication": {
+    "doc_07_daa_syllabus.txt": [
+      9
+    ]
+  },
+  "longest": {
+    "doc_07_daa_syllabus.txt": [
+      14
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      23
+    ]
+  },
+  "common": {
+    "doc_07_daa_syllabus.txt": [
+      15
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      24
+    ]
+  },
+  "subsequence": {
+    "doc_07_daa_syllabus.txt": [
+      16
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      25
+    ]
+  },
+  "5": {
+    "doc_07_daa_syllabus.txt": [
+      18
+    ],
+    "doc_16_sports_meet.txt": [
+      28
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      10
+    ]
+  },
+  "backtracking": {
+    "doc_07_daa_syllabus.txt": [
+      20
+    ]
+  },
+  "branch": {
+    "doc_07_daa_syllabus.txt": [
+      21
+    ]
+  },
+  "bound": {
+    "doc_07_daa_syllabus.txt": [
+      23
+    ]
+  },
+  "n": {
+    "doc_07_daa_syllabus.txt": [
+      24
+    ]
+  },
+  "queens": {
+    "doc_07_daa_syllabus.txt": [
+      25
+    ]
+  },
+  "problem": {
+    "doc_07_daa_syllabus.txt": [
+      26
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      33
+    ]
+  },
+  "np": {
+    "doc_07_daa_syllabus.txt": [
+      28
+    ]
+  },
+  "completeness": {
+    "doc_07_daa_syllabus.txt": [
+      29
+    ]
+  },
+  "textbooks": {
+    "doc_07_daa_syllabus.txt": [
+      31
+    ],
+    "doc_19_library_guidelines.txt": [
+      10
+    ]
+  },
+  "introduction": {
+    "doc_07_daa_syllabus.txt": [
+      32
+    ]
+  },
+  "algorithms": {
+    "doc_07_daa_syllabus.txt": [
+      34
+    ],
+    "doc_08_os_syllabus.txt": [
+      25
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      37
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      7
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      9,
+      31
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      12
+    ],
+    "doc_18_internship_drive.txt": [
+      42
+    ]
+  },
+  "cormen": {
+    "doc_07_daa_syllabus.txt": [
+      36
+    ]
+  },
+  "leiserson": {
+    "doc_07_daa_syllabus.txt": [
+      37
+    ]
+  },
+  "rivest": {
+    "doc_07_daa_syllabus.txt": [
+      38
+    ]
+  },
+  "stein": {
+    "doc_07_daa_syllabus.txt": [
+      40
+    ]
+  },
+  "clrs": {
+    "doc_07_daa_syllabus.txt": [
+      41
+    ]
+  },
+  "cs502": {
+    "doc_08_os_syllabus.txt": [
+      3
+    ]
+  },
+  "computer": {
+    "doc_08_os_syllabus.txt": [
+      7
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      7
+    ]
+  },
+  "organization": {
+    "doc_08_os_syllabus.txt": [
+      8
+    ]
+  },
+  "architecture": {
+    "doc_08_os_syllabus.txt": [
+      10
+    ],
+    "doc_18_internship_drive.txt": [
+      24
+    ]
+  },
+  "unit": {
+    "doc_08_os_syllabus.txt": [
+      1,
+      20,
+      1,
+      22
+    ]
+  },
+  "system": {
+    "doc_08_os_syllabus.txt": [
+      5,
+      7
+    ],
+    "doc_18_internship_drive.txt": [
+      43
+    ]
+  },
+  "calls": {
+    "doc_08_os_syllabus.txt": [
+      8
+    ]
+  },
+  "dual": {
+    "doc_08_os_syllabus.txt": [
+      9
+    ]
+  },
+  "mode": {
+    "doc_08_os_syllabus.txt": [
+      10
+    ]
+  },
+  "cpu": {
+    "doc_08_os_syllabus.txt": [
+      11,
+      23
+    ]
+  },
+  "operation": {
+    "doc_08_os_syllabus.txt": [
+      12
+    ]
+  },
+  "process": {
+    "doc_08_os_syllabus.txt": [
+      13,
+      18,
+      30
+    ]
+  },
+  "control": {
+    "doc_08_os_syllabus.txt": [
+      14
+    ]
+  },
+  "blocks": {
+    "doc_08_os_syllabus.txt": [
+      15
+    ]
+  },
+  "communication": {
+    "doc_08_os_syllabus.txt": [
+      19
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      26
+    ]
+  },
+  "addresses": {
+    "doc_08_os_syllabus.txt": [
+      22
+    ]
+  },
+  "scheduling": {
+    "doc_08_os_syllabus.txt": [
+      24
+    ]
+  },
+  "fcfs": {
+    "doc_08_os_syllabus.txt": [
+      26
+    ]
+  },
+  "sjf": {
+    "doc_08_os_syllabus.txt": [
+      27
+    ]
+  },
+  "round": {
+    "doc_08_os_syllabus.txt": [
+      28
+    ]
+  },
+  "robin": {
+    "doc_08_os_syllabus.txt": [
+      29
+    ]
+  },
+  "synchronization": {
+    "doc_08_os_syllabus.txt": [
+      31
+    ]
+  },
+  "semaphores": {
+    "doc_08_os_syllabus.txt": [
+      32
+    ]
+  },
+  "mutex": {
+    "doc_08_os_syllabus.txt": [
+      33
+    ]
+  },
+  "locks": {
+    "doc_08_os_syllabus.txt": [
+      34
+    ]
+  },
+  "banker": {
+    "doc_08_os_syllabus.txt": [
+      36
+    ]
+  },
+  "deadlock": {
+    "doc_08_os_syllabus.txt": [
+      37
+    ]
+  },
+  "avoidance": {
+    "doc_08_os_syllabus.txt": [
+      38
+    ]
+  },
+  "investigates": {
+    "doc_08_os_syllabus.txt": [
+      3
+    ]
+  },
+  "memory": {
+    "doc_08_os_syllabus.txt": [
+      4,
+      12
+    ]
+  },
+  "management": {
+    "doc_08_os_syllabus.txt": [
+      5
+    ],
+    "doc_09_dbms_syllabus.txt": [
+      2
+    ]
+  },
+  "paging": {
+    "doc_08_os_syllabus.txt": [
+      6,
+      14
+    ]
+  },
+  "segmentation": {
+    "doc_08_os_syllabus.txt": [
+      7
+    ]
+  },
+  "translation": {
+    "doc_08_os_syllabus.txt": [
+      8
+    ]
+  },
+  "lookaside": {
+    "doc_08_os_syllabus.txt": [
+      9
+    ]
+  },
+  "buffers": {
+    "doc_08_os_syllabus.txt": [
+      10
+    ]
+  },
+  "virtual": {
+    "doc_08_os_syllabus.txt": [
+      11
+    ]
+  },
+  "demand": {
+    "doc_08_os_syllabus.txt": [
+      13
+    ]
+  },
+  "page": {
+    "doc_08_os_syllabus.txt": [
+      16
+    ]
+  },
+  "replacement": {
+    "doc_08_os_syllabus.txt": [
+      17
+    ]
+  },
+  "lru": {
+    "doc_08_os_syllabus.txt": [
+      19
+    ]
+  },
+  "fifo": {
+    "doc_08_os_syllabus.txt": [
+      20
+    ]
+  },
+  "optimal": {
+    "doc_08_os_syllabus.txt": [
+      21
+    ]
+  },
+  "studies": {
+    "doc_08_os_syllabus.txt": [
+      24
+    ],
+    "doc_19_library_guidelines.txt": [
+      19
+    ]
+  },
+  "file": {
+    "doc_08_os_syllabus.txt": [
+      25
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      10
+    ]
+  },
+  "disk": {
+    "doc_08_os_syllabus.txt": [
+      27
+    ]
+  },
+  "storage": {
+    "doc_08_os_syllabus.txt": [
+      28
+    ]
+  },
+  "layout": {
+    "doc_08_os_syllabus.txt": [
+      29
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      18
+    ]
+  },
+  "inode": {
+    "doc_08_os_syllabus.txt": [
+      30
+    ]
+  },
+  "allocation": {
+    "doc_08_os_syllabus.txt": [
+      31
+    ]
+  },
+  "modern": {
+    "doc_08_os_syllabus.txt": [
+      33
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      9,
+      19
+    ]
+  },
+  "virtualization": {
+    "doc_08_os_syllabus.txt": [
+      34
+    ]
+  },
+  "technologies": {
+    "doc_08_os_syllabus.txt": [
+      35
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      6
+    ]
+  },
+  "hypervisors": {
+    "doc_08_os_syllabus.txt": [
+      37
+    ]
+  },
+  "containerization": {
+    "doc_08_os_syllabus.txt": [
+      39
+    ]
+  },
+  "cs503": {
+    "doc_09_dbms_syllabus.txt": [
+      3
+    ]
+  },
+  "object": {
+    "doc_09_dbms_syllabus.txt": [
+      7
+    ]
+  },
+  "oriented": {
+    "doc_09_dbms_syllabus.txt": [
+      8,
+      32
+    ]
+  },
+  "relational": {
+    "doc_09_dbms_syllabus.txt": [
+      4,
+      7
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      13
+    ]
+  },
+  "database": {
+    "doc_09_dbms_syllabus.txt": [
+      5,
+      25
+    ]
+  },
+  "design": {
+    "doc_09_dbms_syllabus.txt": [
+      6
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      22
+    ],
+    "doc_18_internship_drive.txt": [
+      44
+    ]
+  },
+  "algebra": {
+    "doc_09_dbms_syllabus.txt": [
+      8
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      8
+    ]
+  },
+  "sql": {
+    "doc_09_dbms_syllabus.txt": [
+      9
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      14
+    ]
+  },
+  "querying": {
+    "doc_09_dbms_syllabus.txt": [
+      10
+    ]
+  },
+  "entity": {
+    "doc_09_dbms_syllabus.txt": [
+      12
+    ]
+  },
+  "relationship": {
+    "doc_09_dbms_syllabus.txt": [
+      13
+    ]
+  },
+  "modeling": {
+    "doc_09_dbms_syllabus.txt": [
+      14
+    ]
+  },
+  "learn": {
+    "doc_09_dbms_syllabus.txt": [
+      16
+    ]
+  },
+  "functional": {
+    "doc_09_dbms_syllabus.txt": [
+      17
+    ]
+  },
+  "dependencies": {
+    "doc_09_dbms_syllabus.txt": [
+      18
+    ]
+  },
+  "normalization": {
+    "doc_09_dbms_syllabus.txt": [
+      19
+    ]
+  },
+  "standards": {
+    "doc_09_dbms_syllabus.txt": [
+      20
+    ]
+  },
+  "up": {
+    "doc_09_dbms_syllabus.txt": [
+      21
+    ],
+    "doc_19_library_guidelines.txt": [
+      5
+    ]
+  },
+  "boyce": {
+    "doc_09_dbms_syllabus.txt": [
+      23
+    ]
+  },
+  "codd": {
+    "doc_09_dbms_syllabus.txt": [
+      24
+    ]
+  },
+  "normal": {
+    "doc_09_dbms_syllabus.txt": [
+      25
+    ]
+  },
+  "bcnf": {
+    "doc_09_dbms_syllabus.txt": [
+      27
+    ]
+  },
+  "indexing": {
+    "doc_09_dbms_syllabus.txt": [
+      28
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      16
+    ],
+    "doc_19_library_guidelines.txt": [
+      18
+    ]
+  },
+  "b": {
+    "doc_09_dbms_syllabus.txt": [
+      31,
+      33
+    ]
+  },
+  "hashing": {
+    "doc_09_dbms_syllabus.txt": [
+      36
+    ]
+  },
+  "transaction": {
+    "doc_09_dbms_syllabus.txt": [
+      1
+    ]
+  },
+  "topics": {
+    "doc_09_dbms_syllabus.txt": [
+      3
+    ],
+    "doc_10_ai_ml_syllabus.txt": [
+      28
+    ]
+  },
+  "explore": {
+    "doc_09_dbms_syllabus.txt": [
+      4
+    ]
+  },
+  "acid": {
+    "doc_09_dbms_syllabus.txt": [
+      5
+    ]
+  },
+  "properties": {
+    "doc_09_dbms_syllabus.txt": [
+      6
+    ]
+  },
+  "serializability": {
+    "doc_09_dbms_syllabus.txt": [
+      7
+    ]
+  },
+  "phase": {
+    "doc_09_dbms_syllabus.txt": [
+      9
+    ]
+  },
+  "locking": {
+    "doc_09_dbms_syllabus.txt": [
+      10
+    ]
+  },
+  "protocols": {
+    "doc_09_dbms_syllabus.txt": [
+      11
+    ]
+  },
+  "write": {
+    "doc_09_dbms_syllabus.txt": [
+      12
+    ]
+  },
+  "ahead": {
+    "doc_09_dbms_syllabus.txt": [
+      13
+    ]
+  },
+  "logging": {
+    "doc_09_dbms_syllabus.txt": [
+      14
+    ]
+  },
+  "crash": {
+    "doc_09_dbms_syllabus.txt": [
+      16
+    ]
+  },
+  "recovery": {
+    "doc_09_dbms_syllabus.txt": [
+      17
+    ]
+  },
+  "techniques": {
+    "doc_09_dbms_syllabus.txt": [
+      18
+    ]
+  },
+  "component": {
+    "doc_09_dbms_syllabus.txt": [
+      21
+    ]
+  },
+  "emphasizes": {
+    "doc_09_dbms_syllabus.txt": [
+      22
+    ]
+  },
+  "designing": {
+    "doc_09_dbms_syllabus.txt": [
+      23
+    ]
+  },
+  "scalable": {
+    "doc_09_dbms_syllabus.txt": [
+      24
+    ]
+  },
+  "schemas": {
+    "doc_09_dbms_syllabus.txt": [
+      26
+    ]
+  },
+  "using": {
+    "doc_09_dbms_syllabus.txt": [
+      27
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      23
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      36
+    ]
+  },
+  "postgresql": {
+    "doc_09_dbms_syllabus.txt": [
+      28
+    ]
+  },
+  "building": {
+    "doc_09_dbms_syllabus.txt": [
+      30
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      7
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      8
+    ]
+  },
+  "pipelines": {
+    "doc_09_dbms_syllabus.txt": [
+      34
+    ],
+    "doc_18_internship_drive.txt": [
+      33
+    ]
+  },
+  "inverted": {
+    "doc_09_dbms_syllabus.txt": [
+      36
+    ]
+  },
+  "indexes": {
+    "doc_09_dbms_syllabus.txt": [
+      37
+    ]
+  },
+  "cs504": {
+    "doc_10_ai_ml_syllabus.txt": [
+      3
+    ]
+  },
+  "python": {
+    "doc_10_ai_ml_syllabus.txt": [
+      10
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      41
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      15
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      32
+    ]
+  },
+  "syllabus": {
+    "doc_10_ai_ml_syllabus.txt": [
+      1
+    ]
+  },
+  "overview": {
+    "doc_10_ai_ml_syllabus.txt": [
+      2
+    ]
+  },
+  "foundations": {
+    "doc_10_ai_ml_syllabus.txt": [
+      3
+    ]
+  },
+  "ai": {
+    "doc_10_ai_ml_syllabus.txt": [
+      5
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      17
+    ]
+  },
+  "intelligent": {
+    "doc_10_ai_ml_syllabus.txt": [
+      6
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      9
+    ]
+  },
+  "agent": {
+    "doc_10_ai_ml_syllabus.txt": [
+      7
+    ]
+  },
+  "architectures": {
+    "doc_10_ai_ml_syllabus.txt": [
+      8
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      7
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      39
+    ]
+  },
+  "state": {
+    "doc_10_ai_ml_syllabus.txt": [
+      9
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      10
+    ]
+  },
+  "space": {
+    "doc_10_ai_ml_syllabus.txt": [
+      10
+    ]
+  },
+  "uninformed": {
+    "doc_10_ai_ml_syllabus.txt": [
+      12
+    ]
+  },
+  "bfs": {
+    "doc_10_ai_ml_syllabus.txt": [
+      14
+    ]
+  },
+  "dfs": {
+    "doc_10_ai_ml_syllabus.txt": [
+      15
+    ]
+  },
+  "informed": {
+    "doc_10_ai_ml_syllabus.txt": [
+      17
+    ]
+  },
+  "heuristic": {
+    "doc_10_ai_ml_syllabus.txt": [
+      18
+    ]
+  },
+  "minimax": {
+    "doc_10_ai_ml_syllabus.txt": [
+      25
+    ]
+  },
+  "game": {
+    "doc_10_ai_ml_syllabus.txt": [
+      26
+    ]
+  },
+  "playing": {
+    "doc_10_ai_ml_syllabus.txt": [
+      27
+    ]
+  },
+  "alpha": {
+    "doc_10_ai_ml_syllabus.txt": [
+      29
+    ]
+  },
+  "beta": {
+    "doc_10_ai_ml_syllabus.txt": [
+      30
+    ]
+  },
+  "pruning": {
+    "doc_10_ai_ml_syllabus.txt": [
+      31
+    ]
+  },
+  "machine": {
+    "doc_10_ai_ml_syllabus.txt": [
+      1
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      11
+    ]
+  },
+  "learning": {
+    "doc_10_ai_ml_syllabus.txt": [
+      2,
+      6
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      12
+    ]
+  },
+  "units": {
+    "doc_10_ai_ml_syllabus.txt": [
+      3
+    ]
+  },
+  "address": {
+    "doc_10_ai_ml_syllabus.txt": [
+      4
+    ]
+  },
+  "supervised": {
+    "doc_10_ai_ml_syllabus.txt": [
+      5
+    ]
+  },
+  "regression": {
+    "doc_10_ai_ml_syllabus.txt": [
+      9,
+      11
+    ]
+  },
+  "logistic": {
+    "doc_10_ai_ml_syllabus.txt": [
+      10
+    ]
+  },
+  "decision": {
+    "doc_10_ai_ml_syllabus.txt": [
+      12
+    ]
+  },
+  "support": {
+    "doc_10_ai_ml_syllabus.txt": [
+      14
+    ]
+  },
+  "vector": {
+    "doc_10_ai_ml_syllabus.txt": [
+      15
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      5
+    ]
+  },
+  "machines": {
+    "doc_10_ai_ml_syllabus.txt": [
+      16
+    ]
+  },
+  "unsupervised": {
+    "doc_10_ai_ml_syllabus.txt": [
+      17
+    ]
+  },
+  "clustering": {
+    "doc_10_ai_ml_syllabus.txt": [
+      18,
+      22
+    ]
+  },
+  "k": {
+    "doc_10_ai_ml_syllabus.txt": [
+      19
+    ]
+  },
+  "hierarchical": {
+    "doc_10_ai_ml_syllabus.txt": [
+      21
+    ]
+  },
+  "neural": {
+    "doc_10_ai_ml_syllabus.txt": [
+      24
+    ]
+  },
+  "network": {
+    "doc_10_ai_ml_syllabus.txt": [
+      25
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      34,
+      32
+    ]
+  },
+  "backpropagation": {
+    "doc_10_ai_ml_syllabus.txt": [
+      26
+    ]
+  },
+  "special": {
+    "doc_10_ai_ml_syllabus.txt": [
+      27
+    ],
+    "doc_16_sports_meet.txt": [
+      34
+    ]
+  },
+  "highlight": {
+    "doc_10_ai_ml_syllabus.txt": [
+      29
+    ]
+  },
+  "natural": {
+    "doc_10_ai_ml_syllabus.txt": [
+      30
+    ]
+  },
+  "language": {
+    "doc_10_ai_ml_syllabus.txt": [
+      31
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      32
+    ]
+  },
+  "text": {
+    "doc_10_ai_ml_syllabus.txt": [
+      33
+    ],
+    "doc_11_algorithms_lab_manual.txt": [
+      15
+    ]
+  },
+  "tokenization": {
+    "doc_10_ai_ml_syllabus.txt": [
+      34
+    ]
+  },
+  "tf": {
+    "doc_10_ai_ml_syllabus.txt": [
+      35
+    ]
+  },
+  "idf": {
+    "doc_10_ai_ml_syllabus.txt": [
+      36
+    ]
+  },
+  "representations": {
+    "doc_10_ai_ml_syllabus.txt": [
+      37
+    ]
+  },
+  "index": {
+    "doc_10_ai_ml_syllabus.txt": [
+      40
+    ]
+  },
+  "scoring": {
+    "doc_10_ai_ml_syllabus.txt": [
+      41
+    ]
+  },
+  "models": {
+    "doc_10_ai_ml_syllabus.txt": [
+      42
+    ]
+  },
+  "cs501l": {
+    "doc_11_algorithms_lab_manual.txt": [
+      4
+    ]
+  },
+  "department": {
+    "doc_11_algorithms_lab_manual.txt": [
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      2
+    ]
+  },
+  "science": {
+    "doc_11_algorithms_lab_manual.txt": [
+      8
+    ],
+    "doc_18_internship_drive.txt": [
+      26
+    ]
+  },
+  "experiment": {
+    "doc_11_algorithms_lab_manual.txt": [
+      1,
+      1,
+      13,
+      26
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      1,
+      3,
+      21,
+      31,
+      1
+    ]
+  },
+  "implementation": {
+    "doc_11_algorithms_lab_manual.txt": [
+      3,
+      3
+    ]
+  },
+  "empirical": {
+    "doc_11_algorithms_lab_manual.txt": [
+      5
+    ]
+  },
+  "comparison": {
+    "doc_11_algorithms_lab_manual.txt": [
+      6,
+      19
+    ]
+  },
+  "sorted": {
+    "doc_11_algorithms_lab_manual.txt": [
+      14
+    ]
+  },
+  "vocabularies": {
+    "doc_11_algorithms_lab_manual.txt": [
+      16
+    ]
+  },
+  "measure": {
+    "doc_11_algorithms_lab_manual.txt": [
+      18
+    ]
+  },
+  "counts": {
+    "doc_11_algorithms_lab_manual.txt": [
+      20
+    ]
+  },
+  "execution": {
+    "doc_11_algorithms_lab_manual.txt": [
+      21
+    ]
+  },
+  "times": {
+    "doc_11_algorithms_lab_manual.txt": [
+      22
+    ]
+  },
+  "microsecond": {
+    "doc_11_algorithms_lab_manual.txt": [
+      24
+    ]
+  },
+  "timers": {
+    "doc_11_algorithms_lab_manual.txt": [
+      25
+    ]
+  },
+  "evaluate": {
+    "doc_11_algorithms_lab_manual.txt": [
+      27
+    ]
+  },
+  "algorithmic": {
+    "doc_11_algorithms_lab_manual.txt": [
+      28
+    ]
+  },
+  "growth": {
+    "doc_11_algorithms_lab_manual.txt": [
+      30
+    ]
+  },
+  "sorting": {
+    "doc_11_algorithms_lab_manual.txt": [
+      8
+    ]
+  },
+  "mergesort": {
+    "doc_11_algorithms_lab_manual.txt": [
+      12
+    ]
+  },
+  "solutions": {
+    "doc_11_algorithms_lab_manual.txt": [
+      17
+    ]
+  },
+  "tree": {
+    "doc_11_algorithms_lab_manual.txt": [
+      30
+    ]
+  },
+  "programs": {
+    "doc_11_algorithms_lab_manual.txt": [
+      36
+    ]
+  },
+  "coded": {
+    "doc_11_algorithms_lab_manual.txt": [
+      39
+    ]
+  },
+  "modular": {
+    "doc_11_algorithms_lab_manual.txt": [
+      44
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      4
+    ]
+  },
+  "docstrings": {
+    "doc_11_algorithms_lab_manual.txt": [
+      45
+    ]
+  },
+  "time": {
+    "doc_11_algorithms_lab_manual.txt": [
+      46
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      21
+    ]
+  },
+  "complexity": {
+    "doc_11_algorithms_lab_manual.txt": [
+      47
+    ]
+  },
+  "against": {
+    "doc_11_algorithms_lab_manual.txt": [
+      51
+    ]
+  },
+  "synthetic": {
+    "doc_11_algorithms_lab_manual.txt": [
+      52
+    ]
+  },
+  "test": {
+    "doc_11_algorithms_lab_manual.txt": [
+      53
+    ],
+    "doc_12_networks_lab_manual.txt": [
+      26
+    ]
+  },
+  "datasets": {
+    "doc_11_algorithms_lab_manual.txt": [
+      54
+    ]
+  },
+  "cs502l": {
+    "doc_12_networks_lab_manual.txt": [
+      4
+    ]
+  },
+  "facility": {
+    "doc_12_networks_lab_manual.txt": [
+      7
+    ]
+  },
+  "list": {
+    "doc_12_networks_lab_manual.txt": [
+      2
+    ]
+  },
+  "tcp": {
+    "doc_12_networks_lab_manual.txt": [
+      9,
+      43
+    ]
+  },
+  "client": {
+    "doc_12_networks_lab_manual.txt": [
+      10
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      5
+    ]
+  },
+  "server": {
+    "doc_12_networks_lab_manual.txt": [
+      11
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      6
+    ]
+  },
+  "chat": {
+    "doc_12_networks_lab_manual.txt": [
+      12
+    ]
+  },
+  "application": {
+    "doc_12_networks_lab_manual.txt": [
+      13
+    ],
+    "doc_13_web_tech_lab_manual.txt": [
+      35
+    ]
+  },
+  "utilizing": {
+    "doc_12_networks_lab_manual.txt": [
+      14
+    ]
+  },
+  "socket": {
+    "doc_12_networks_lab_manual.txt": [
+      16,
+      25
+    ]
+  },
+  "multi": {
+    "doc_12_networks_lab_manual.txt": [
+      19
+    ]
+  },
+  "threading": {
+    "doc_12_networks_lab_manual.txt": [
+      20
+    ]
+  },
+  "implements": {
+    "doc_12_networks_lab_manual.txt": [
+      23,
+      3
+    ]
+  },
+  "udp": {
+    "doc_12_networks_lab_manual.txt": [
+      24
+    ]
+  },
+  "low": {
+    "doc_12_networks_lab_manual.txt": [
+      28
+    ]
+  },
+  "latency": {
+    "doc_12_networks_lab_manual.txt": [
+      29
+    ]
+  },
+  "transmission": {
+    "doc_12_networks_lab_manual.txt": [
+      30
+    ]
+  },
+  "packet": {
+    "doc_12_networks_lab_manual.txt": [
+      35,
+      28
+    ]
+  },
+  "sniffing": {
+    "doc_12_networks_lab_manual.txt": [
+      36
+    ]
+  },
+  "protocol": {
+    "doc_12_networks_lab_manual.txt": [
+      38
+    ]
+  },
+  "inspection": {
+    "doc_12_networks_lab_manual.txt": [
+      39
+    ]
+  },
+  "wireshark": {
+    "doc_12_networks_lab_manual.txt": [
+      41
+    ]
+  },
+  "dissecting": {
+    "doc_12_networks_lab_manual.txt": [
+      42
+    ]
+  },
+  "three": {
+    "doc_12_networks_lab_manual.txt": [
+      44
+    ],
+    "doc_14_hackathon_announcement.txt": [
+      22
+    ]
+  },
+  "way": {
+    "doc_12_networks_lab_manual.txt": [
+      45
+    ]
+  },
+  "handshakes": {
+    "doc_12_networks_lab_manual.txt": [
+      46
+    ]
+  },
+  "http": {
+    "doc_12_networks_lab_manual.txt": [
+      48
+    ]
+  },
+  "payloads": {
+    "doc_12_networks_lab_manual.txt": [
+      49
+    ]
+  },
+  "distance": {
+    "doc_12_networks_lab_manual.txt": [
+      4
+    ]
+  },
+  "routing": {
+    "doc_12_networks_lab_manual.txt": [
+      6,
+      11
+    ]
+  },
+  "link": {
+    "doc_12_networks_lab_manual.txt": [
+      9
+    ]
+  },
+  "software": {
+    "doc_12_networks_lab_manual.txt": [
+      14
+    ],
+    "doc_18_internship_drive.txt": [
+      21
+    ]
+  },
+  "simulation": {
+    "doc_12_networks_lab_manual.txt": [
+      15
+    ]
+  },
+  "maintain": {
+    "doc_12_networks_lab_manual.txt": [
+      18
+    ]
+  },
+  "formal": {
+    "doc_12_networks_lab_manual.txt": [
+      19
+    ],
+    "doc_17_campus_placement_policy.txt": [
+      7
+    ],
+    "doc_18_internship_drive.txt": [
+      6
+    ]
+  },
+  "lab": {
+    "doc_12_networks_lab_manual.txt": [
+      20
+    ]
+  },
+  "observation": {
+    "doc_12_networks_lab_manual.txt": [
+      21
+    ]
+  },
+  "notebooks": {
+    "doc_12_networks_lab_manual.txt": [
+      22
+    ]
+  },
+  "documenting": {
+    "doc_12_networks_lab_manual.txt": [
+      23
+    ]
+  },
+  "source": {
+    "doc_12_networks_lab_manual.txt": [
+      24
+    ]
+  },
+  "traces": {
+    "doc_12_networks_lab_manual.txt": [
+      27
+    ]
+  },
+  "capture": {
+    "doc_12_networks_lab_manual.txt": [
+      29
+    ]
+  },
+  "screenshots": {
+    "doc_12_networks_lab_manual.txt": [
+      30
+    ]
+  },
+  "throughput": {
+    "doc_12_networks_lab_manual.txt": [
+      33
+    ]
+  },
+  "calculations": {
+    "doc_12_networks_lab_manual.txt": [
+      34
+    ]
+  },
+  "it503l": {
+    "doc_13_web_tech_lab_manual.txt": [
+      4
+    ]
+  },
+  "web": {
+    "doc_13_web_tech_lab_manual.txt": [
+      5
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      21
+    ]
+  },
+  "provides": {
+    "doc_13_web_tech_lab_manual.txt": [
+      3
+    ],
+    "doc_19_library_guidelines.txt": [
+      5
+    ]
+  },
+  "hands": {
+    "doc_13_web_tech_lab_manual.txt": [
+      4
+    ]
+  },
+  "exposure": {
+    "doc_13_web_tech_lab_manual.txt": [
+      6
+    ]
+  },
+  "responsive": {
+    "doc_13_web_tech_lab_manual.txt": [
+      10
+    ]
+  },
+  "full": {
+    "doc_13_web_tech_lab_manual.txt": [
+      11
+    ],
+    "doc_18_internship_drive.txt": [
+      19
+    ]
+  },
+  "stack": {
+    "doc_13_web_tech_lab_manual.txt": [
+      12
+    ],
+    "doc_18_internship_drive.txt": [
+      20
+    ]
+  },
+  "html5": {
+    "doc_13_web_tech_lab_manual.txt": [
+      16
+    ]
+  },
+  "semantic": {
+    "doc_13_web_tech_lab_manual.txt": [
+      17
+    ]
+  },
+  "css": {
+    "doc_13_web_tech_lab_manual.txt": [
+      20
+    ]
+  },
+  "flexbox": {
+    "doc_13_web_tech_lab_manual.txt": [
+      21
+    ]
+  },
+  "grid": {
+    "doc_13_web_tech_lab_manual.txt": [
+      23
+    ]
+  },
+  "styling": {
+    "doc_13_web_tech_lab_manual.txt": [
+      24
+    ]
+  },
+  "javascript": {
+    "doc_13_web_tech_lab_manual.txt": [
+      25
+    ]
+  },
+  "dom": {
+    "doc_13_web_tech_lab_manual.txt": [
+      26
+    ]
+  },
+  "manipulation": {
+    "doc_13_web_tech_lab_manual.txt": [
+      27
+    ]
+  },
+  "asynchronous": {
+    "doc_13_web_tech_lab_manual.txt": [
+      28
+    ]
+  },
+  "fetch": {
+    "doc_13_web_tech_lab_manual.txt": [
+      29
+    ]
+  },
+  "apis": {
+    "doc_13_web_tech_lab_manual.txt": [
+      30
+    ]
+  },
+  "powered": {
+    "doc_13_web_tech_lab_manual.txt": [
+      33
+    ]
+  },
+  "backend": {
+    "doc_13_web_tech_lab_manual.txt": [
+      34
+    ]
+  },
+  "microservices": {
+    "doc_13_web_tech_lab_manual.txt": [
+      35
+    ]
+  },
+  "streamlit": {
+    "doc_13_web_tech_lab_manual.txt": [
+      37
+    ]
+  },
+  "fastapi": {
+    "doc_13_web_tech_lab_manual.txt": [
+      39
+    ]
+  },
+  "experiments": {
+    "doc_13_web_tech_lab_manual.txt": [
+      1
+    ]
+  },
+  "emphasize": {
+    "doc_13_web_tech_lab_manual.txt": [
+      2
+    ]
+  },
+  "structuring": {
+    "doc_13_web_tech_lab_manual.txt": [
+      3
+    ]
+  },
+  "handling": {
+    "doc_13_web_tech_lab_manual.txt": [
+      8
+    ]
+  },
+  "multipart": {
+    "doc_13_web_tech_lab_manual.txt": [
+      9
+    ]
+  },
+  "uploads": {
+    "doc_13_web_tech_lab_manual.txt": [
+      11
+    ]
+  },
+  "integrating": {
+    "doc_13_web_tech_lab_manual.txt": [
+      12
+    ]
+  },
+  "databases": {
+    "doc_13_web_tech_lab_manual.txt": [
+      15
+    ]
+  },
+  "documents": {
+    "doc_13_web_tech_lab_manual.txt": [
+      17
+    ]
+  },
+  "instant": {
+    "doc_13_web_tech_lab_manual.txt": [
+      19
+    ]
+  },
+  "producing": {
+    "doc_13_web_tech_lab_manual.txt": [
+      22
+    ]
+  },
+  "interactive": {
+    "doc_13_web_tech_lab_manual.txt": [
+      23
+    ]
+  },
+  "statistical": {
+    "doc_13_web_tech_lab_manual.txt": [
+      24
+    ]
+  },
+  "charts": {
+    "doc_13_web_tech_lab_manual.txt": [
+      25
+    ]
+  },
+  "matplotlib": {
+    "doc_13_web_tech_lab_manual.txt": [
+      27
+    ]
+  },
+  "evaluation": {
+    "doc_13_web_tech_lab_manual.txt": [
+      29
+    ]
+  },
+  "requires": {
+    "doc_13_web_tech_lab_manual.txt": [
+      30
+    ]
+  },
+  "presenting": {
+    "doc_13_web_tech_lab_manual.txt": [
+      31
+    ]
+  },
+  "independent": {
+    "doc_13_web_tech_lab_manual.txt": [
+      33
+    ]
+  },
+  "project": {
+    "doc_13_web_tech_lab_manual.txt": [
+      34
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      15
+    ]
+  },
+  "innovation": {
+    "doc_14_hackathon_announcement.txt": [
+      2
+    ]
+  },
+  "incubation": {
+    "doc_14_hackathon_announcement.txt": [
+      4,
+      27
+    ]
+  },
+  "delighted": {
+    "doc_14_hackathon_announcement.txt": [
+      7
+    ]
+  },
+  "announce": {
+    "doc_14_hackathon_announcement.txt": [
+      9
+    ]
+  },
+  "flagship": {
+    "doc_14_hackathon_announcement.txt": [
+      11
+    ]
+  },
+  "36": {
+    "doc_14_hackathon_announcement.txt": [
+      14
+    ]
+  },
+  "hour": {
+    "doc_14_hackathon_announcement.txt": [
+      15
+    ]
+  },
+  "hackathon": {
+    "doc_14_hackathon_announcement.txt": [
+      16
+    ]
+  },
+  "18": {
+    "doc_14_hackathon_announcement.txt": [
+      24
+    ]
+  },
+  "complex": {
+    "doc_14_hackathon_announcement.txt": [
+      29
+    ]
+  },
+  "themes": {
+    "doc_14_hackathon_announcement.txt": [
+      1
+    ]
+  },
+  "competition": {
+    "doc_14_hackathon_announcement.txt": [
+      4
+    ],
+    "doc_16_sports_meet.txt": [
+      39
+    ]
+  },
+  "automation": {
+    "doc_14_hackathon_announcement.txt": [
+      8
+    ]
+  },
+  "information": {
+    "doc_14_hackathon_announcement.txt": [
+      10
+    ]
+  },
+  "retrieval": {
+    "doc_14_hackathon_announcement.txt": [
+      11
+    ]
+  },
+  "engines": {
+    "doc_14_hackathon_announcement.txt": [
+      15
+    ]
+  },
+  "healthcare": {
+    "doc_14_hackathon_announcement.txt": [
+      16
+    ]
+  },
+  "fintech": {
+    "doc_14_hackathon_announcement.txt": [
+      18
+    ]
+  },
+  "clean": {
+    "doc_14_hackathon_announcement.txt": [
+      21
+    ]
+  },
+  "monitoring": {
+    "doc_14_hackathon_announcement.txt": [
+      23
+    ]
+  },
+  "teams": {
+    "doc_14_hackathon_announcement.txt": [
+      24,
+      2
+    ]
+  },
+  "comprising": {
+    "doc_14_hackathon_announcement.txt": [
+      25
+    ]
+  },
+  "proposals": {
+    "doc_14_hackathon_announcement.txt": [
+      34
+    ]
+  },
+  "shortlisted": {
+    "doc_14_hackathon_announcement.txt": [
+      1
+    ],
+    "doc_18_internship_drive.txt": [
+      1
+    ]
+  },
+  "development": {
+    "doc_14_hackathon_announcement.txt": [
+      6
+    ]
+  },
+  "industry": {
+    "doc_14_hackathon_announcement.txt": [
+      8
+    ],
+    "doc_15_tech_fest_circular.txt": [
+      45
+    ]
+  },
+  "mentorship": {
+    "doc_14_hackathon_announcement.txt": [
+      9
+    ]
+  },
+  "tech": {
+    "doc_14_hackathon_announcement.txt": [
+      11
+    ]
+  },
+  "leaders": {
+    "doc_14_hackathon_announcement.txt": [
+      12
+    ]
+  },
+  "compete": {
+    "doc_14_hackathon_announcement.txt": [
+      14
+    ]
+  },
+  "cash": {
+    "doc_14_hackathon_announcement.txt": [
+      18
+    ]
+  },
+  "prize": {
+    "doc_14_hackathon_announcement.txt": [
+      19
+    ]
+  },
+  "pool": {
+    "doc_14_hackathon_announcement.txt": [
+      20
+    ]
+  },
+  "thousand": {
+    "doc_14_hackathon_announcement.txt": [
+      24
+    ]
+  },
+  "alongside": {
+    "doc_14_hackathon_announcement.txt": [
+      26
+    ]
+  },
+  "seed": {
+    "doc_14_hackathon_announcement.txt": [
+      28
+    ]
+  },
+  "funding": {
+    "doc_14_hackathon_announcement.txt": [
+      29
+    ]
+  },
+  "opportunities": {
+    "doc_14_hackathon_announcement.txt": [
+      30
+    ]
+  },
+  "invites": {
+    "doc_15_tech_fest_circular.txt": [
+      3
+    ]
+  },
+  "registrations": {
+    "doc_15_tech_fest_circular.txt": [
+      4
+    ]
+  },
+  "technotron": {
+    "doc_15_tech_fest_circular.txt": [
+      6
+    ]
+  },
+  "national": {
+    "doc_15_tech_fest_circular.txt": [
+      10
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      8
+    ]
+  },
+  "technical": {
+    "doc_15_tech_fest_circular.txt": [
+      11,
+      28
+    ],
+    "doc_18_internship_drive.txt": [
+      47
+    ]
+  },
+  "symposium": {
+    "doc_15_tech_fest_circular.txt": [
+      12
+    ]
+  },
+  "exhibition": {
+    "doc_15_tech_fest_circular.txt": [
+      16
+    ]
+  },
+  "taking": {
+    "doc_15_tech_fest_circular.txt": [
+      17
+    ]
+  },
+  "23": {
+    "doc_15_tech_fest_circular.txt": [
+      21
+    ]
+  },
+  "24": {
+    "doc_15_tech_fest_circular.txt": [
+      23
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      10
+    ]
+  },
+  "featured": {
+    "doc_15_tech_fest_circular.txt": [
+      1
+    ]
+  },
+  "competitive": {
+    "doc_15_tech_fest_circular.txt": [
+      2,
+      5
+    ],
+    "doc_16_sports_meet.txt": [
+      1
+    ]
+  },
+  "encompass": {
+    "doc_15_tech_fest_circular.txt": [
+      4
+    ],
+    "doc_18_internship_drive.txt": [
+      18
+    ]
+  },
+  "contests": {
+    "doc_15_tech_fest_circular.txt": [
+      7
+    ]
+  },
+  "paper": {
+    "doc_15_tech_fest_circular.txt": [
+      8
+    ]
+  },
+  "presentations": {
+    "doc_15_tech_fest_circular.txt": [
+      9
+    ]
+  },
+  "autonomous": {
+    "doc_15_tech_fest_circular.txt": [
+      16
+    ]
+  },
+  "mazes": {
+    "doc_15_tech_fest_circular.txt": [
+      18
+    ]
+  },
+  "ui": {
+    "doc_15_tech_fest_circular.txt": [
+      19
+    ]
+  },
+  "ux": {
+    "doc_15_tech_fest_circular.txt": [
+      20
+    ]
+  },
+  "challenges": {
+    "doc_15_tech_fest_circular.txt": [
+      23
+    ]
+  },
+  "iot": {
+    "doc_15_tech_fest_circular.txt": [
+      25
+    ]
+  },
+  "hardware": {
+    "doc_15_tech_fest_circular.txt": [
+      26
+    ]
+  },
+  "demonstrations": {
+    "doc_15_tech_fest_circular.txt": [
+      27
+    ]
+  },
+  "workshops": {
+    "doc_15_tech_fest_circular.txt": [
+      29
+    ]
+  },
+  "covering": {
+    "doc_15_tech_fest_circular.txt": [
+      30
+    ],
+    "doc_18_internship_drive.txt": [
+      38
+    ]
+  },
+  "large": {
+    "doc_15_tech_fest_circular.txt": [
+      31
+    ]
+  },
+  "model": {
+    "doc_15_tech_fest_circular.txt": [
+      33
+    ]
+  },
+  "deployment": {
+    "doc_15_tech_fest_circular.txt": [
+      34
+    ]
+  },
+  "high": {
+    "doc_15_tech_fest_circular.txt": [
+      36
+    ],
+    "doc_19_library_guidelines.txt": [
+      8
+    ],
+    "doc_20_hostel_code_of_conduct.txt": [
+      4
+    ]
+  },
+  "performance": {
+    "doc_15_tech_fest_circular.txt": [
+      37
+    ]
+  },
+  "held": {
+    "doc_15_tech_fest_circular.txt": [
+      42
+    ]
+  },
+  "leading": {
+    "doc_15_tech_fest_circular.txt": [
+      44
+    ]
+  },
+  "engineers": {
+    "doc_15_tech_fest_circular.txt": [
+      46
+    ]
+  },
+  "accredited": {
+    "doc_15_tech_fest_circular.txt": [
+      6
+    ]
+  },
+  "institutions": {
+    "doc_15_tech_fest_circular.txt": [
+      8
+    ],
+    "doc_18_internship_drive.txt": [
+      25
+    ]
+  },
+  "country": {
+    "doc_15_tech_fest_circular.txt": [
+      11
+    ]
+  },
+  "participate": {
+    "doc_15_tech_fest_circular.txt": [
+      15
+    ]
+  },
+  "education": {
+    "doc_16_sports_meet.txt": [
+      5
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      9
+    ]
+  },
+  "proudly": {
+    "doc_16_sports_meet.txt": [
+      6
+    ]
+  },
+  "28th": {
+    "doc_16_sports_meet.txt": [
+      9
+    ]
+  },
+  "collegiate": {
+    "doc_16_sports_meet.txt": [
+      12
+    ]
+  },
+  "meet": {
+    "doc_16_sports_meet.txt": [
+      14
+    ]
+  },
+  "athletics": {
+    "doc_16_sports_meet.txt": [
+      16,
+      7
+    ]
+  },
+  "championship": {
+    "doc_16_sports_meet.txt": [
+      17
+    ]
+  },
+  "hosted": {
+    "doc_16_sports_meet.txt": [
+      20
+    ]
+  },
+  "stadium": {
+    "doc_16_sports_meet.txt": [
+      25
+    ]
+  },
+  "8": {
+    "doc_16_sports_meet.txt": [
+      31,
+      21
+    ]
+  },
+  "fixtures": {
+    "doc_16_sports_meet.txt": [
+      2
+    ]
+  },
+  "track": {
+    "doc_16_sports_meet.txt": [
+      4
+    ]
+  },
+  "field": {
+    "doc_16_sports_meet.txt": [
+      6
+    ]
+  },
+  "football": {
+    "doc_16_sports_meet.txt": [
+      8
+    ]
+  },
+  "basketball": {
+    "doc_16_sports_meet.txt": [
+      9
+    ]
+  },
+  "volleyball": {
+    "doc_16_sports_meet.txt": [
+      10
+    ]
+  },
+  "badminton": {
+    "doc_16_sports_meet.txt": [
+      11
+    ]
+  },
+  "table": {
+    "doc_16_sports_meet.txt": [
+      12
+    ]
+  },
+  "tennis": {
+    "doc_16_sports_meet.txt": [
+      13
+    ]
+  },
+  "chess": {
+    "doc_16_sports_meet.txt": [
+      15
+    ]
+  },
+  "preliminary": {
+    "doc_16_sports_meet.txt": [
+      18
+    ]
+  },
+  "tryouts": {
+    "doc_16_sports_meet.txt": [
+      19
+    ]
+  },
+  "take": {
+    "doc_16_sports_meet.txt": [
+      21
+    ]
+  },
+  "between": {
+    "doc_16_sports_meet.txt": [
+      23
+    ]
+  },
+  "15": {
+    "doc_16_sports_meet.txt": [
+      28
+    ]
+  },
+  "participating": {
+    "doc_16_sports_meet.txt": [
+      29
+    ]
+  },
+  "athletes": {
+    "doc_16_sports_meet.txt": [
+      31
+    ]
+  },
+  "duty": {
+    "doc_16_sports_meet.txt": [
+      35
+    ]
+  },
+  "leaves": {
+    "doc_16_sports_meet.txt": [
+      36
+    ]
+  },
+  "matches": {
+    "doc_16_sports_meet.txt": [
+      40
+    ]
+  },
+  "trophies": {
+    "doc_16_sports_meet.txt": [
+      1
+    ]
+  },
+  "athletic": {
+    "doc_16_sports_meet.txt": [
+      4
+    ]
+  },
+  "distinction": {
+    "doc_16_sports_meet.txt": [
+      5
+    ]
+  },
+  "sport": {
+    "doc_16_sports_meet.txt": [
+      8
+    ]
+  },
+  "merit": {
+    "doc_16_sports_meet.txt": [
+      9
+    ]
+  },
+  "scholarships": {
+    "doc_16_sports_meet.txt": [
+      10
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      34
+    ]
+  },
+  "awarded": {
+    "doc_16_sports_meet.txt": [
+      13
+    ]
+  },
+  "valedictory": {
+    "doc_16_sports_meet.txt": [
+      16
+    ]
+  },
+  "closing": {
+    "doc_16_sports_meet.txt": [
+      17
+    ]
+  },
+  "ceremony": {
+    "doc_16_sports_meet.txt": [
+      18
+    ]
+  },
+  "training": {
+    "doc_17_campus_placement_policy.txt": [
+      2
+    ]
+  },
+  "placement": {
+    "doc_17_campus_placement_policy.txt": [
+      4,
+      14,
+      31,
+      30
+    ]
+  },
+  "issues": {
+    "doc_17_campus_placement_policy.txt": [
+      6
+    ]
+  },
+  "guidelines": {
+    "doc_17_campus_placement_policy.txt": [
+      8
+    ]
+  },
+  "season": {
+    "doc_17_campus_placement_policy.txt": [
+      15
+    ]
+  },
+  "graduating": {
+    "doc_17_campus_placement_policy.txt": [
+      18
+    ]
+  },
+  "cohorts": {
+    "doc_17_campus_placement_policy.txt": [
+      20
+    ]
+  },
+  "eligibility": {
+    "doc_17_campus_placement_policy.txt": [
+      1
+    ]
+  },
+  "criteria": {
+    "doc_17_campus_placement_policy.txt": [
+      2
+    ]
+  },
+  "require": {
+    "doc_17_campus_placement_policy.txt": [
+      3
+    ]
+  },
+  "cgpa": {
+    "doc_17_campus_placement_policy.txt": [
+      7
+    ]
+  },
+  "6": {
+    "doc_17_campus_placement_policy.txt": [
+      9
+    ]
+  },
+  "completed": {
+    "doc_17_campus_placement_policy.txt": [
+      12
+    ]
+  },
+  "semesters": {
+    "doc_17_campus_placement_policy.txt": [
+      13
+    ]
+  },
+  "no": {
+    "doc_17_campus_placement_policy.txt": [
+      15
+    ],
+    "doc_18_internship_drive.txt": [
+      7
+    ],
+    "doc_19_library_guidelines.txt": [
+      26
+    ]
+  },
+  "backlogs": {
+    "doc_17_campus_placement_policy.txt": [
+      18
+    ]
+  },
+  "recruitment": {
+    "doc_17_campus_placement_policy.txt": [
+      23,
+      46
+    ]
+  },
+  "upload": {
+    "doc_17_campus_placement_policy.txt": [
+      33
+    ]
+  },
+  "institutionally": {
+    "doc_17_campus_placement_policy.txt": [
+      35
+    ]
+  },
+  "resume": {
+    "doc_17_campus_placement_policy.txt": [
+      37
+    ]
+  },
+  "secure": {
+    "doc_17_campus_placement_policy.txt": [
+      39
+    ]
+  },
+  "dean": {
+    "doc_17_campus_placement_policy.txt": [
+      43
+    ]
+  },
+  "academics": {
+    "doc_17_campus_placement_policy.txt": [
+      45
+    ]
+  },
+  "one": {
+    "doc_17_campus_placement_policy.txt": [
+      4
+    ]
+  },
+  "offer": {
+    "doc_17_campus_placement_policy.txt": [
+      5,
+      12
+    ],
+    "doc_18_internship_drive.txt": [
+      5
+    ]
+  },
+  "policy": {
+    "doc_17_campus_placement_policy.txt": [
+      6
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      8
+    ]
+  },
+  "once": {
+    "doc_17_campus_placement_policy.txt": [
+      7
+    ],
+    "doc_19_library_guidelines.txt": [
+      20
+    ]
+  },
+  "candidate": {
+    "doc_17_campus_placement_policy.txt": [
+      9
+    ]
+  },
+  "secures": {
+    "doc_17_campus_placement_policy.txt": [
+      10
+    ]
+  },
+  "compensation": {
+    "doc_17_campus_placement_policy.txt": [
+      15
+    ]
+  },
+  "tier": {
+    "doc_17_campus_placement_policy.txt": [
+      16
+    ]
+  },
+  "above": {
+    "doc_17_campus_placement_policy.txt": [
+      17
+    ]
+  },
+  "eight": {
+    "doc_17_campus_placement_policy.txt": [
+      18
+    ],
+    "doc_18_internship_drive.txt": [
+      9
+    ]
+  },
+  "lakhs": {
+    "doc_17_campus_placement_policy.txt": [
+      19
+    ]
+  },
+  "annum": {
+    "doc_17_campus_placement_policy.txt": [
+      21
+    ]
+  },
+  "they": {
+    "doc_17_campus_placement_policy.txt": [
+      22
+    ]
+  },
+  "become": {
+    "doc_17_campus_placement_policy.txt": [
+      23
+    ]
+  },
+  "ineligible": {
+    "doc_17_campus_placement_policy.txt": [
+      24
+    ]
+  },
+  "drives": {
+    "doc_17_campus_placement_policy.txt": [
+      27
+    ]
+  },
+  "ensuring": {
+    "doc_17_campus_placement_policy.txt": [
+      28
+    ]
+  },
+  "fair": {
+    "doc_17_campus_placement_policy.txt": [
+      29
+    ]
+  },
+  "distribution": {
+    "doc_17_campus_placement_policy.txt": [
+      31
+    ]
+  },
+  "among": {
+    "doc_17_campus_placement_policy.txt": [
+      32
+    ]
+  },
+  "strict": {
+    "doc_17_campus_placement_policy.txt": [
+      35
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      5
+    ]
+  },
+  "professional": {
+    "doc_17_campus_placement_policy.txt": [
+      36
+    ]
+  },
+  "attire": {
+    "doc_17_campus_placement_policy.txt": [
+      37
+    ]
+  },
+  "ethics": {
+    "doc_17_campus_placement_policy.txt": [
+      41
+    ]
+  },
+  "interviews": {
+    "doc_17_campus_placement_policy.txt": [
+      47
+    ],
+    "doc_18_internship_drive.txt": [
+      48
+    ]
+  },
+  "invited": {
+    "doc_18_internship_drive.txt": [
+      3
+    ]
+  },
+  "summer": {
+    "doc_18_internship_drive.txt": [
+      12,
+      15
+    ]
+  },
+  "internship": {
+    "doc_18_internship_drive.txt": [
+      14
+    ]
+  },
+  "drive": {
+    "doc_18_internship_drive.txt": [
+      15
+    ]
+  },
+  "premier": {
+    "doc_18_internship_drive.txt": [
+      17
+    ]
+  },
+  "multinational": {
+    "doc_18_internship_drive.txt": [
+      18
+    ]
+  },
+  "firms": {
+    "doc_18_internship_drive.txt": [
+      20
+    ]
+  },
+  "research": {
+    "doc_18_internship_drive.txt": [
+      21
+    ],
+    "doc_19_library_guidelines.txt": [
+      11,
+      14
+    ]
+  },
+  "labs": {
+    "doc_18_internship_drive.txt": [
+      22
+    ]
+  },
+  "recruiting": {
+    "doc_18_internship_drive.txt": [
+      1
+    ]
+  },
+  "partner": {
+    "doc_18_internship_drive.txt": [
+      2
+    ]
+  },
+  "corporations": {
+    "doc_18_internship_drive.txt": [
+      3
+    ]
+  },
+  "paid": {
+    "doc_18_internship_drive.txt": [
+      6
+    ]
+  },
+  "twelve": {
+    "doc_18_internship_drive.txt": [
+      11
+    ]
+  },
+  "weeks": {
+    "doc_18_internship_drive.txt": [
+      12
+    ]
+  },
+  "domains": {
+    "doc_18_internship_drive.txt": [
+      17
+    ]
+  },
+  "embedded": {
+    "doc_18_internship_drive.txt": [
+      30
+    ]
+  },
+  "selection": {
+    "doc_18_internship_drive.txt": [
+      32
+    ]
+  },
+  "coding": {
+    "doc_18_internship_drive.txt": [
+      36
+    ]
+  },
+  "assessments": {
+    "doc_18_internship_drive.txt": [
+      37
+    ]
+  },
+  "obtain": {
+    "doc_18_internship_drive.txt": [
+      4
+    ]
+  },
+  "objection": {
+    "doc_18_internship_drive.txt": [
+      8
+    ]
+  },
+  "certificate": {
+    "doc_18_internship_drive.txt": [
+      9
+    ]
+  },
+  "respective": {
+    "doc_18_internship_drive.txt": [
+      12
+    ]
+  },
+  "heads": {
+    "doc_18_internship_drive.txt": [
+      14
+    ]
+  },
+  "commencing": {
+    "doc_18_internship_drive.txt": [
+      17
+    ]
+  },
+  "external": {
+    "doc_18_internship_drive.txt": [
+      18
+    ]
+  },
+  "library": {
+    "doc_19_library_guidelines.txt": [
+      4,
+      23,
+      23,
+      34
+    ]
+  },
+  "expansive": {
+    "doc_19_library_guidelines.txt": [
+      7
+    ]
+  },
+  "collection": {
+    "doc_19_library_guidelines.txt": [
+      8
+    ]
+  },
+  "monographs": {
+    "doc_19_library_guidelines.txt": [
+      12
+    ]
+  },
+  "reference": {
+    "doc_19_library_guidelines.txt": [
+      13
+    ]
+  },
+  "encyclopedias": {
+    "doc_19_library_guidelines.txt": [
+      14
+    ]
+  },
+  "subscriptions": {
+    "doc_19_library_guidelines.txt": [
+      18
+    ]
+  },
+  "ieee": {
+    "doc_19_library_guidelines.txt": [
+      19
+    ]
+  },
+  "xplore": {
+    "doc_19_library_guidelines.txt": [
+      20
+    ]
+  },
+  "acm": {
+    "doc_19_library_guidelines.txt": [
+      21
+    ]
+  },
+  "springerlink": {
+    "doc_19_library_guidelines.txt": [
+      24
+    ]
+  },
+  "sciencedirect": {
+    "doc_19_library_guidelines.txt": [
+      25
+    ]
+  },
+  "borrow": {
+    "doc_19_library_guidelines.txt": [
+      4
+    ]
+  },
+  "volumes": {
+    "doc_19_library_guidelines.txt": [
+      9
+    ]
+  },
+  "standard": {
+    "doc_19_library_guidelines.txt": [
+      12
+    ]
+  },
+  "borrowing": {
+    "doc_19_library_guidelines.txt": [
+      13
+    ]
+  },
+  "duration": {
+    "doc_19_library_guidelines.txt": [
+      14
+    ]
+  },
+  "fourteen": {
+    "doc_19_library_guidelines.txt": [
+      16
+    ]
+  },
+  "renewable": {
+    "doc_19_library_guidelines.txt": [
+      19
+    ]
+  },
+  "if": {
+    "doc_19_library_guidelines.txt": [
+      25
+    ]
+  },
+  "holds": {
+    "doc_19_library_guidelines.txt": [
+      27
+    ]
+  },
+  "overdue": {
+    "doc_19_library_guidelines.txt": [
+      30
+    ]
+  },
+  "items": {
+    "doc_19_library_guidelines.txt": [
+      31
+    ]
+  },
+  "fine": {
+    "doc_19_library_guidelines.txt": [
+      34
+    ]
+  },
+  "day": {
+    "doc_19_library_guidelines.txt": [
+      39
+    ]
+  },
+  "book": {
+    "doc_19_library_guidelines.txt": [
+      41
+    ]
+  },
+  "reading": {
+    "doc_19_library_guidelines.txt": [
+      3
+    ]
+  },
+  "equipped": {
+    "doc_19_library_guidelines.txt": [
+      6
+    ]
+  },
+  "speed": {
+    "doc_19_library_guidelines.txt": [
+      9
+    ]
+  },
+  "internet": {
+    "doc_19_library_guidelines.txt": [
+      10
+    ]
+  },
+  "terminals": {
+    "doc_19_library_guidelines.txt": [
+      11
+    ]
+  },
+  "engine": {
+    "doc_19_library_guidelines.txt": [
+      17
+    ]
+  },
+  "users": {
+    "doc_19_library_guidelines.txt": [
+      20
+    ]
+  },
+  "observe": {
+    "doc_19_library_guidelines.txt": [
+      22
+    ]
+  },
+  "silence": {
+    "doc_19_library_guidelines.txt": [
+      23
+    ]
+  },
+  "refrain": {
+    "doc_19_library_guidelines.txt": [
+      29
+    ]
+  },
+  "eating": {
+    "doc_19_library_guidelines.txt": [
+      31
+    ]
+  },
+  "premises": {
+    "doc_19_library_guidelines.txt": [
+      35
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      23
+    ]
+  },
+  "chief": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      2
+    ]
+  },
+  "warden": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      3
+    ]
+  },
+  "outlines": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      5
+    ]
+  },
+  "residential": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      8,
+      19
+    ],
+    "doc_21_anti_ragging_policy.txt": [
+      20
+    ]
+  },
+  "boarding": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      13
+    ]
+  },
+  "hostels": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      14
+    ]
+  },
+  "hostel": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      1
+    ]
+  },
+  "entry": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      2,
+      12
+    ]
+  },
+  "gates": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      3
+    ]
+  },
+  "close": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      4
+    ]
+  },
+  "promptly": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      5
+    ]
+  },
+  "late": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      11
+    ]
+  },
+  "without": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      13
+    ]
+  },
+  "approved": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      14
+    ]
+  },
+  "out": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      16
+    ]
+  },
+  "passes": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      17
+    ]
+  },
+  "issued": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      18
+    ]
+  },
+  "wardens": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      20
+    ]
+  },
+  "trigger": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      22
+    ]
+  },
+  "disciplinary": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      23
+    ]
+  },
+  "notification": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      24
+    ]
+  },
+  "parents": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      26
+    ]
+  },
+  "guardians": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      28
+    ]
+  },
+  "allocations": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      30
+    ]
+  },
+  "transferable": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      33
+    ]
+  },
+  "inventory": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      36
+    ]
+  },
+  "maintained": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      39
+    ]
+  },
+  "pristine": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      41
+    ]
+  },
+  "condition": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      42
+    ]
+  },
+  "use": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      1
+    ]
+  },
+  "unauthorized": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      3
+    ]
+  },
+  "wattage": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      5
+    ]
+  },
+  "electrical": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      6
+    ]
+  },
+  "appliances": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      7
+    ]
+  },
+  "such": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      8
+    ]
+  },
+  "as": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      9
+    ]
+  },
+  "immersion": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      10
+    ]
+  },
+  "heaters": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      11
+    ]
+  },
+  "induction": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      13
+    ]
+  },
+  "stoves": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      14
+    ]
+  },
+  "ensure": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      18
+    ]
+  },
+  "fire": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      20
+    ]
+  },
+  "safety": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      21,
+      31
+    ]
+  },
+  "reserves": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      24
+    ]
+  },
+  "right": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      26
+    ]
+  },
+  "conduct": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      28
+    ]
+  },
+  "periodic": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      29
+    ]
+  },
+  "inspections": {
+    "doc_20_hostel_code_of_conduct.txt": [
+      32
+    ]
+  },
+  "enforces": {
+    "doc_21_anti_ragging_policy.txt": [
+      3
+    ]
+  },
+  "zero": {
+    "doc_21_anti_ragging_policy.txt": [
+      6
+    ]
+  },
+  "tolerance": {
+    "doc_21_anti_ragging_policy.txt": [
+      7
+    ]
+  },
+  "towards": {
+    "doc_21_anti_ragging_policy.txt": [
+      9
+    ]
+  },
+  "ragging": {
+    "doc_21_anti_ragging_policy.txt": [
+      10,
+      1,
+      23,
+      13
+    ]
+  },
+  "harassment": {
+    "doc_21_anti_ragging_policy.txt": [
+      11
+    ]
+  },
+  "bullying": {
+    "doc_21_anti_ragging_policy.txt": [
+      12
+    ]
+  },
+  "intimidation": {
+    "doc_21_anti_ragging_policy.txt": [
+      14
+    ]
+  },
+  "nature": {
+    "doc_21_anti_ragging_policy.txt": [
+      17
+    ]
+  },
+  "transport": {
+    "doc_21_anti_ragging_policy.txt": [
+      22
+    ]
+  },
+  "cognizable": {
+    "doc_21_anti_ragging_policy.txt": [
+      4
+    ]
+  },
+  "criminal": {
+    "doc_21_anti_ragging_policy.txt": [
+      5,
+      36
+    ]
+  },
+  "offense": {
+    "doc_21_anti_ragging_policy.txt": [
+      6
+    ]
+  },
+  "penal": {
+    "doc_21_anti_ragging_policy.txt": [
+      13
+    ]
+  },
+  "codes": {
+    "doc_21_anti_ragging_policy.txt": [
+      14
+    ]
+  },
+  "found": {
+    "doc_21_anti_ragging_policy.txt": [
+      17
+    ]
+  },
+  "guilty": {
+    "doc_21_anti_ragging_policy.txt": [
+      18
+    ]
+  },
+  "abetting": {
+    "doc_21_anti_ragging_policy.txt": [
+      20
+    ]
+  },
+  "perpetrating": {
+    "doc_21_anti_ragging_policy.txt": [
+      22
+    ]
+  },
+  "face": {
+    "doc_21_anti_ragging_policy.txt": [
+      25
+    ]
+  },
+  "immediate": {
+    "doc_21_anti_ragging_policy.txt": [
+      26
+    ]
+  },
+  "suspension": {
+    "doc_21_anti_ragging_policy.txt": [
+      27
+    ]
+  },
+  "rustication": {
+    "doc_21_anti_ragging_policy.txt": [
+      28
+    ]
+  },
+  "forfeiture": {
+    "doc_21_anti_ragging_policy.txt": [
+      32
+    ]
+  },
+  "prosecution": {
+    "doc_21_anti_ragging_policy.txt": [
+      37
+    ]
+  },
+  "civil": {
+    "doc_21_anti_ragging_policy.txt": [
+      39
+    ]
+  },
+  "law": {
+    "doc_21_anti_ragging_policy.txt": [
+      40
+    ]
+  },
+  "enforcement": {
+    "doc_21_anti_ragging_policy.txt": [
+      41
+    ]
+  },
+  "authorities": {
+    "doc_21_anti_ragging_policy.txt": [
+      42
+    ]
+  },
+  "victims": {
+    "doc_21_anti_ragging_policy.txt": [
+      1
+    ]
+  },
+  "witnesses": {
+    "doc_21_anti_ragging_policy.txt": [
+      3
+    ]
+  },
+  "incidents": {
+    "doc_21_anti_ragging_policy.txt": [
+      6
+    ]
+  },
+  "confidentially": {
+    "doc_21_anti_ragging_policy.txt": [
+      7
+    ]
+  },
+  "anti": {
+    "doc_21_anti_ragging_policy.txt": [
+      12
+    ]
+  },
+  "helpline": {
+    "doc_21_anti_ragging_policy.txt": [
+      14
+    ]
+  },
+  "proctorial": {
+    "doc_21_anti_ragging_policy.txt": [
+      16
+    ]
+  },
+  "board": {
+    "doc_21_anti_ragging_policy.txt": [
+      17
+    ]
+  },
+  "anonymous": {
+    "doc_21_anti_ragging_policy.txt": [
+      21
+    ]
+  },
+  "submission": {
+    "doc_21_anti_ragging_policy.txt": [
+      23
+    ]
+  }
+}
